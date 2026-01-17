@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,7 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td vAlign="center" align="middle">
-                    	<span id="lbcontent"><DIV id=imgBox></DIV> <SCRIPT language=javascript> function ViewPhoto(PhotoUrl){ var strHtml; var FileExt=PhotoUrl.substr(PhotoUrl.lastIndexOf('.')+1).toLowerCase(); if(FileExt=='gif'||FileExt=='jpg'||FileExt=='png'||FileExt=='bmp'||FileExt=='jpeg'){  strHtml='<a href=\''+PhotoUrl+'\' target=\'PhotoView\'><img src=\''+PhotoUrl+'\' border=\'0\' onload=\'if(this.width>700) this.width=700\'></a>'; }else if(FileExt=='swf'){  strHtml='<object classid=\'clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\' width=\'600\' height=\'400\' codebase=\'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0\'><param name=\'movie\' value=\''+PhotoUrl+'\'><param name=\'quality\' value=\'high\'><embed src=\''+PhotoUrl+'\' pluginspage=\'http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\' type=\'application/x-shockwave-flash\' width=\'550\' height=\'400\'></embed></object>';  }else{ strHtml=PhotoUrl; }  imgBox.innerHTML=strHtml; } ViewPhoto('http://www.jdzch18.com/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe45732.283792799471.jpg');</SCRIPT> </span>
+                    	<span id="lbcontent"><DIV id=imgBox></DIV> <SCRIPT language=javascript> function ViewPhoto(PhotoUrl){ var strHtml; var FileExt=PhotoUrl.substr(PhotoUrl.lastIndexOf('.')+1).toLowerCase(); if(FileExt=='gif'||FileExt=='jpg'||FileExt=='png'||FileExt=='bmp'||FileExt=='jpeg'){  strHtml='<a href=\''+PhotoUrl+'\' target=\'PhotoView\'><img src=\''+PhotoUrl+'\' border=\'0\' onload=\'if(this.width>700) this.width=700\'></a>'; }else if(FileExt=='swf'){  strHtml='<object classid=\'clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\' width=\'600\' height=\'400\' codebase=\'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0\'><param name=\'movie\' value=\''+PhotoUrl+'\'><param name=\'quality\' value=\'high\'><embed src=\''+PhotoUrl+'\' pluginspage=\'http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\' type=\'application/x-shockwave-flash\' width=\'550\' height=\'400\'></embed></object>';  }else{ strHtml=PhotoUrl; }  imgBox.innerHTML=strHtml; } ViewPhoto('http://jdzch18.hanze.icu/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe45732.283792799471.jpg');</SCRIPT> </span>
                     </td></tr><tr><td vAlign="center" align="left">图片相关信息:</td></tr><tr><td ><span id="lbdes"><div align=left>来&nbsp;&nbsp;&nbsp;&nbsp;源：景德镇昌河中学<br>更新时间：09  5 2009 10:01AM<br>图片简介：</div></span></td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -125,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
             <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
-            href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
+            href=http://jdzch18.hanze.icu/>http://jdzch18.hanze.icu/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
         <TR>

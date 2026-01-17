@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月6日下午，副市长沈薇在教育局长张学锋的陪同下来到昌河中学考察安全工作，校长刘光明和书记刘三科在二楼会议室接待。刘校长向沈市长汇报了学校的安全工作。</FONT></DIV>
-<DIV><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100507175044.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘校长汇报说，本学期开学以来多次召开学校安全工作会议；加强安全防范措施，如进行封闭式管理，门卫双岗值班，对外来人员进行登记等；定期排查校园安全隐患。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 沈市长听取了刘校长的汇报后，对校园中存在的一些可能的安全隐患提了一些建议，随后，还视察了校园的一些安全设施。</FONT></DIV>   </span>
+<DIV><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100507175044.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘校长汇报说，本学期开学以来多次召开学校安全工作会议；加强安全防范措施，如进行封闭式管理，门卫双岗值班，对外来人员进行登记等；定期排查校园安全隐患。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 沈市长听取了刘校长的汇报后，对校园中存在的一些可能的安全隐患提了一些建议，随后，还视察了校园的一些安全设施。</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

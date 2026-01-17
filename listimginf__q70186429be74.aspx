@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -103,19 +103,19 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     <table id="DataInfList" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
 	<tr>
-		<td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=312' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe45732.283792799471.jpg' width=130 border="0"></a><br />
+		<td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=312' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe45732.283792799471.jpg' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=312' target="_self"><span id="DataInfList__ctl0_ids">图片</span></a></p>
-                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=311' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe455931.80727955504.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=311' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe455931.80727955504.jpg' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=311' target="_self"><span id="DataInfList__ctl1_ids">图片</span></a></p>
-                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=310' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe451164.35049621591.JPG' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=310' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe451164.35049621591.JPG' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=310' target="_self"><span id="DataInfList__ctl2_ids">图片</span></a></p>
-                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=309' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/15614d4uz55uibz1355ouf3t3fx8651.81321681096.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=309' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/15614d4uz55uibz1355ouf3t3fx8651.81321681096.jpg' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=309' target="_self"><span id="DataInfList__ctl3_ids">图片</span></a></p>
-                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=308' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe457027.63078130206.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=308' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe457027.63078130206.jpg' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=308' target="_self"><span id="DataInfList__ctl4_ids">图片</span></a></p>
                     </td>
 	</tr><tr>
-		<td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=307' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe456721.05916623076.jpg' width=130 border="0"></a><br />
+		<td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=307' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/107xl244u55ezd14x45qff1xe456721.05916623076.jpg' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_5    &infid=307' target="_self"><span id="DataInfList__ctl5_ids">图片</span></a></p>
                     </td><td></td><td></td><td></td><td></td>
 	</tr>
@@ -144,7 +144,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
             <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
-            href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
+            href=http://jdzch18.hanze.icu/>http://jdzch18.hanze.icu/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
         <TR>

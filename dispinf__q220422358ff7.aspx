@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,18 +99,19 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150407143219.JPG"></DIV>
+                    	<span id="lbcontent"><DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150407143219.JPG"></DIV>
 <DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT size=4>“谷雨诗会”决赛选手</FONT></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150407143239.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150407143239.JPG"></DIV>
 <DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=4>“谷雨诗会”优秀组织奖</FONT></DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150407143255.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150407143255.JPG"></DIV>
 <DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT size=4>“谷雨诗会”一等奖选手</FONT></DIV>
 <DIV><IMG src="/adminweb/mod/upfiles/20150407143844.JPG"></DIV>
 <DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=4>“谷雨诗会”征文获奖选手</FONT></DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150407143308.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150407143308.JPG"></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为了活跃校园气氛，陶冶高尚情操，提升文学素养，进一步推进校园和谐文化建设，弘扬社会主义核心价值观，给热爱诗歌创作、诗歌朗诵的同学搭建一个“展现自我、超越自我”的舞台，昌河中学近期举行了第三届“谷雨诗会”活动，活动主要包括征文比赛和朗诵比赛。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 征文要求：传承中华传统美德，礼赞春天，歌颂祖国；赞美家乡，吟咏亲情；讴歌青春，畅叙理想；以及其他思想健康、积极向上，抒发美好情感的诗歌散文均可。共有450多名同学交来稿件，经过以语文老师组成的评委评选，罗雯婷等11同学获初中组一等奖，王晗瑞等14名同学获高中组一等奖。优秀的诗文还将参加全市“谷雨诗会”征文比赛。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月26日下午，在学术报告厅举行了“谷雨诗会”朗诵比赛的预赛，共有51组同学参加，经过激烈的角逐和评委的打分，共有15组同学进入决赛，在4月3日下午的决赛现场，不仅有段文彬、刘勇、康乐阗、舒伟民等校领导，还荣幸地请来了市教育局中教室主任徐林根和市电视台著名的播音员小兵、殷红、周悦，嘉宾们不仅担任评委，小兵、殷红、周悦还现场为师生们进行了朗诵表演并对同学们的朗诵进行了点评，这对同学们的朗诵能力的提高受益匪浅。在朗诵比赛中，参赛的同学，精神饱满，姿态大方，感情饱满真挚，声音洪亮，他们的表演赢得了台下师生们的阵阵掌声，经过评委们的打分，魏世航同学朗诵的《我们勇往直前》、江奔同学和杨太原同学朗诵的《中国人，不跪的人》、邓方颖同学朗诵的《不朽的胡杨》获一等奖，陈鑫琳等五名同学获二等奖。校领导和嘉宾为“谷雨诗会”征文比赛和朗诵比赛的同学进行了颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后，校长段文彬作总结讲话。段校长说，同学们的朗诵充满着诗情画意，诗歌的语言，要有充沛的感情，并富有感染力，听诗、写诗、读诗是一种艺术的表现，也是一种艺术的享受，一个喜欢诗的人，一定是一个有文化、有修养的人；景德镇市每年举行的“谷雨诗会”，我校都积极参加，而且获奖最多；办“谷雨诗会”的目的主要是为了提高学生的阅读、写作水平，提高语文教师教学水平和加强学生修养、锻炼语言、提高素质；我校除“谷雨诗会”活动外，还有学生讲坛，名著欣赏，推荐一本好书等活动，这些活动都可以提高课堂教学，扩大学生的阅读面，这些活动最终的目的是为了提高我校的教学质量，让学生享受好的教育。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届“谷雨诗会”活动由学校团委主办，语文组承办。<BR></FONT></DIV>   </span>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为了活跃校园气氛，陶冶高尚情操，提升文学素养，进一步推进校园和谐文化建设，弘扬社会主义核心价值观，给热爱诗歌创作、诗歌朗诵的同学搭建一个“展现自我、超越自我”的舞台，昌河中学近期举行了第三届“谷雨诗会”活动，活动主要包括征文比赛和朗诵比赛。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 征文要求：传承中华传统美德，礼赞春天，歌颂祖国；赞美家乡，吟咏亲情；讴歌青春，畅叙理想；以及其他思想健康、积极向上，抒发美好情感的诗歌散文均可。共有450多名同学交来稿件，经过以语文老师组成的评委评选，罗雯婷等11同学获初中组一等奖，王晗瑞等14名同学获高中组一等奖。优秀的诗文还将参加全市“谷雨诗会”征文比赛。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月26日下午，在学术报告厅举行了“谷雨诗会”朗诵比赛的预赛，共有51组同学参加，经过激烈的角逐和评委的打分，共有15组同学进入决赛，在4月3日下午的决赛现场，不仅有段文彬、刘勇、康乐阗、舒伟民等校领导，还荣幸地请来了市教育局中教室主任徐林根和市电视台著名的播音员小兵、殷红、周悦，嘉宾们不仅担任评委，小兵、殷红、周悦还现场为师生们进行了朗诵表演并对同学们的朗诵进行了点评，这对同学们的朗诵能力的提高受益匪浅。在朗诵比赛中，参赛的同学，精神饱满，姿态大方，感情饱满真挚，声音洪亮，他们的表演赢得了台下师生们的阵阵掌声，经过评委们的打分，魏世航同学朗诵的《我们勇往直前》、江奔同学和杨太原同学朗诵的《中国人，不跪的人》、邓方颖同学朗诵的《不朽的胡杨》获一等奖，陈鑫琳等五名同学获二等奖。校领导和嘉宾为“谷雨诗会”征文比赛和朗诵比赛的同学进行了颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后，校长段文彬作总结讲话。段校长说，同学们的朗诵充满着诗情画意，诗歌的语言，要有充沛的感情，并富有感染力，听诗、写诗、读诗是一种艺术的表现，也是一种艺术的享受，一个喜欢诗的人，一定是一个有文化、有修养的人；景德镇市每年举行的“谷雨诗会”，我校都积极参加，而且获奖最多；办“谷雨诗会”的目的主要是为了提高学生的阅读、写作水平，提高语文教师教学水平和加强学生修养、锻炼语言、提高素质；我校除“谷雨诗会”活动外，还有学生讲坛，名著欣赏，推荐一本好书等活动，这些活动都可以提高课堂教学，扩大学生的阅读面，这些活动最终的目的是为了提高我校的教学质量，让学生享受好的教育。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届“谷雨诗会”活动由学校团委主办，语文组承办。<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -135,7 +136,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

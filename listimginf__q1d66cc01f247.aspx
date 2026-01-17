@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -103,23 +103,23 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     <table id="DataInfList" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
 	<tr>
-		<td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：01  4 2016  3:58PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=350' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/20625xxdy45n02bf1meootm4ai3801.622691006224.JPG' width=130 border="0"></a><br />
+		<td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：01  4 2016  3:58PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=350' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/20625xxdy45n02bf1meootm4ai3801.622691006224.JPG' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：01  4 2016  3:58PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=350' target="_self"><span id="DataInfList__ctl0_ids"></span></a></p>
-                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：11  5 2015  2:28PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=349' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/205nvgib1454zxezjmc1uo34zuh7159.83901506282.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：11  5 2015  2:28PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=349' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/205nvgib1454zxezjmc1uo34zuh7159.83901506282.jpg' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：11  5 2015  2:28PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=349' target="_self"><span id="DataInfList__ctl1_ids"></span></a></p>
-                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：10 12 2015 10:20AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=348' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/201e3uo3si24fpqwa55d2ls53555129.92387410715.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：10 12 2015 10:20AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=348' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/201e3uo3si24fpqwa55d2ls53555129.92387410715.jpg' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：10 12 2015 10:20AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=348' target="_self"><span id="DataInfList__ctl2_ids"></span></a></p>
-                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：05 27 2015 10:24AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=347' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/195mkpessmkxectekn4fz0xjhaz5193.81809290211.JPG' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：05 27 2015 10:24AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=347' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/195mkpessmkxectekn4fz0xjhaz5193.81809290211.JPG' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：05 27 2015 10:24AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=347' target="_self"><span id="DataInfList__ctl3_ids"></span></a></p>
-                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：09 15 2014  2:54PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=343' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/201ndsa1mazgzu0nn55jsyvwk457215.12443721999.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：09 15 2014  2:54PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=343' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/201ndsa1mazgzu0nn55jsyvwk457215.12443721999.jpg' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：09 15 2014  2:54PM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=343' target="_self"><span id="DataInfList__ctl4_ids"></span></a></p>
                     </td>
 	</tr><tr>
-		<td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：05 29 2014  8:09AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=341' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/177ntwmae45n13f1ojhqenghh555080.55505113702.JPG' width=130 border="0"></a><br />
+		<td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：05 29 2014  8:09AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=341' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/177ntwmae45n13f1ojhqenghh555080.55505113702.JPG' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：05 29 2014  8:09AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=341' target="_self"><span id="DataInfList__ctl5_ids"></span></a></p>
-                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：12 14 2013  9:59AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=338' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/174rwuq52u5mvp1zpyqkzstho457403.22073800639.JPG' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：12 14 2013  9:59AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=338' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/174rwuq52u5mvp1zpyqkzstho457403.22073800639.JPG' width=130 border="0"></a><br />
                     	<a title='图片名称：&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：12 14 2013  9:59AM&#13;&#10;图片简介：' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=338' target="_self"><span id="DataInfList__ctl6_ids"></span></a></p>
-                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=337' target="_self"><IMG class=pic3 height=90 src='http://www.jdzch18.com/adminweb/mod/imgfiles/173vz50gi45rq52rd55nddm00551049.7660800115.jpg' width=130 border="0"></a><br />
+                    </td><td><p align="center"><a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=337' target="_self"><IMG class=pic3 height=90 src='http://jdzch18.hanze.icu/adminweb/mod/imgfiles/173vz50gi45rq52rd55nddm00551049.7660800115.jpg' width=130 border="0"></a><br />
                     	<a title='' href='showimginf.aspx?pid=1_10      &ppid=1_10_1    &infid=337' target="_self"><span id="DataInfList__ctl7_ids">图片</span></a></p>
                     </td><td></td><td></td>
 	</tr>
@@ -148,7 +148,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
             <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
-            href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
+            href=http://jdzch18.hanze.icu/>http://jdzch18.hanze.icu/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
         <TR>

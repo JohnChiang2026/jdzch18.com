@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -106,7 +106,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
 <DIV><BR>4、袁志所带理科班98%上本科，一本上线率43%。</DIV>
 <DIV><BR>5、朱伟光教的语文单科包揽了全市第一、二、四、五、六、七、八、九名。</DIV>
 <DIV><BR>6、涂件生和韩前所带的文科班300%超额完成目标任务</FONT></DIV><FONT size=5>
-<DIV></DIV></FONT>   </span>
+<DIV></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -131,7 +132,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

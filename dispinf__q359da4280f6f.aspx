@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>尊敬的老师，亲爱的同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上周是开学的第三周，值周班级是初二（3）班，我班全体同学在班主任谢华老师的带领下，每天早早到校，在各自的责任区，有条不紊地进行清扫。上周天气大多为晴天，为我们开展工作提供了很好的便利，每个同学都在自己的岗位上尽心尽责，不仅能够完成自己的工作，还能帮助其他同学，让我们形成一个团结的集体，在同学们的共同努力下，校园卫生得到了很大的改善。同时，也发现了很多问题：学校门口的人行道经常垃圾比较多，即使垃圾桶就在不远处，一些同学就是不愿多走那么几步，而是随手乱扔垃圾；在上学与课间休息期间垃圾数量明显增多，特别是小卖部和车棚处，讲到车棚，还有同学在那抽烟；学校大操场也不时有零散的垃圾。当然，上周，高空抛垃圾的现象有所减少，希望同学们克服缺点，发扬好的习惯。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 以下是我班对校园环境提的几点建议：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1、往学校加强对吸烟同学的训导和管理，杜绝这种不良风气的出现。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2、各年级中，初一年级乱丢垃圾的现象比较严重，希望初一班主任加强对本班同学的教育。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3、对乱丢垃圾的地方，学校应加强值周力量或设置警示牌。<BR>谢谢大家！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 初二（3）班<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;3月10日上午<BR></FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>尊敬的老师，亲爱的同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上周是开学的第三周，值周班级是初二（3）班，我班全体同学在班主任谢华老师的带领下，每天早早到校，在各自的责任区，有条不紊地进行清扫。上周天气大多为晴天，为我们开展工作提供了很好的便利，每个同学都在自己的岗位上尽心尽责，不仅能够完成自己的工作，还能帮助其他同学，让我们形成一个团结的集体，在同学们的共同努力下，校园卫生得到了很大的改善。同时，也发现了很多问题：学校门口的人行道经常垃圾比较多，即使垃圾桶就在不远处，一些同学就是不愿多走那么几步，而是随手乱扔垃圾；在上学与课间休息期间垃圾数量明显增多，特别是小卖部和车棚处，讲到车棚，还有同学在那抽烟；学校大操场也不时有零散的垃圾。当然，上周，高空抛垃圾的现象有所减少，希望同学们克服缺点，发扬好的习惯。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 以下是我班对校园环境提的几点建议：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1、往学校加强对吸烟同学的训导和管理，杜绝这种不良风气的出现。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2、各年级中，初一年级乱丢垃圾的现象比较严重，希望初一班主任加强对本班同学的教育。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3、对乱丢垃圾的地方，学校应加强值周力量或设置警示牌。<BR>谢谢大家！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 初二（3）班<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;3月10日上午<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

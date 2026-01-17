@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8月31日上午，昌河中学全体教职员工在学术报告厅召开2014年秋季开学工作会议，校长段文彬、书记刘三科出席会议并讲话。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记主要传达了市教育局开学工作会议精神，着重传达了张局长的讲话，重点强调了治理教育“三乱”和整顿工作作风和工作纪律问题。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 段校长首先回顾了上一年度学校取得的成绩，他特别指出2014年高考的新亮点：1，易莉萍同学夺取全市文科第一名，全省第十二名，被北大预先确定录取，易莉萍、唐晓立、陈丽佳包揽市区文科前三名；2，全校二本上线92人，二本上线人数创历史新高；3，在所有昌河飞机公司和昌河汽车公司的子弟中，中考留在昌河中学读高中的曲文慧和赵丹旭分别以621分和615分获理科高考最好成绩，留在昌河中学读高中最好；4，易莉萍中考成绩641分高考夺状元，于子人中考539分，高考超一本4分，孙蓉中考540分，高考超一本1分，二流中考基础，一流的高考成绩；5，余萍考东南大学美术专业全省第一名，盛瑜考贵州大学播音主持全省第一名。另外，昌河中学最近参加多项全国赛事喜获大奖：1，8月1日至2日，由北京大学中文系和课堂内外杂志联合主办的第九届全国创新作文大赛总决赛中，有来自全国各地近300所中小学的1200余名中学学生参加，昌河中学吴越萌、戴汉宸、周婧雅分获特等奖、二等奖和三等奖，吴越萌获特等奖，跻身全国前十名；2，7月23日至26日，由叶圣陶全国新作文大赛组委会和中学生杂志以及陆军航空兵学院联合主办的第十二届叶圣陶杯中学生新作文大赛在陆军航空兵学院进行了总决赛，来自全国各地中学的1000多名中学学生参加决赛，昌河中学徐文颖、王欣朔、张欣宇荣获一等奖，刘圣茜、江晓婧、李刘泓获二等奖,3，7月26日至30日，由教育部高校学生司指导、中国高校招生研究会主办的《高校招生》杂志社与北京大学、清华大学等十所名校联合主办的全国创新英语总结赛在北京举行，来自全国各地300多名高中英语特长生参赛，昌河中学7名同学晋级决赛，戴汉宸参加总决赛，荣获二等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谈到新学年的工作，段校长重点讲了工作思路：1，进一步确立学校的办学理念，以培养健全的人格，培养基本素养，培养关键能力为主要内容；2，以建规范的管理秩序，建高素质的教师队伍，打造高效课堂，打造经典素质教育活动为手段；3，以夯实基础，提升素质，全面发展，创造特色，提高品位，提高质量为办学目标；4，创造志存高远，励精竭力，踏实稳健的校风；把立志勤勉，善思明辨，踏实稳健，坚韧有恒，追求卓越作为校训；发扬“不畏难，敢拼搏，勇争先”的昌河中学精神；在教学工作中要以改进我们的课堂教学为主要抓手每位教师都要反思影响我们课堂的教学质量的因素，并推广我们课堂的教学质量好的做法，打造高效课堂，向更高的教学质量迈进。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 参加会议的校领导还有：金昂，刘勇，康乐阗，舒伟明，方文华。<BR></FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8月31日上午，昌河中学全体教职员工在学术报告厅召开2014年秋季开学工作会议，校长段文彬、书记刘三科出席会议并讲话。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记主要传达了市教育局开学工作会议精神，着重传达了张局长的讲话，重点强调了治理教育“三乱”和整顿工作作风和工作纪律问题。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 段校长首先回顾了上一年度学校取得的成绩，他特别指出2014年高考的新亮点：1，易莉萍同学夺取全市文科第一名，全省第十二名，被北大预先确定录取，易莉萍、唐晓立、陈丽佳包揽市区文科前三名；2，全校二本上线92人，二本上线人数创历史新高；3，在所有昌河飞机公司和昌河汽车公司的子弟中，中考留在昌河中学读高中的曲文慧和赵丹旭分别以621分和615分获理科高考最好成绩，留在昌河中学读高中最好；4，易莉萍中考成绩641分高考夺状元，于子人中考539分，高考超一本4分，孙蓉中考540分，高考超一本1分，二流中考基础，一流的高考成绩；5，余萍考东南大学美术专业全省第一名，盛瑜考贵州大学播音主持全省第一名。另外，昌河中学最近参加多项全国赛事喜获大奖：1，8月1日至2日，由北京大学中文系和课堂内外杂志联合主办的第九届全国创新作文大赛总决赛中，有来自全国各地近300所中小学的1200余名中学学生参加，昌河中学吴越萌、戴汉宸、周婧雅分获特等奖、二等奖和三等奖，吴越萌获特等奖，跻身全国前十名；2，7月23日至26日，由叶圣陶全国新作文大赛组委会和中学生杂志以及陆军航空兵学院联合主办的第十二届叶圣陶杯中学生新作文大赛在陆军航空兵学院进行了总决赛，来自全国各地中学的1000多名中学学生参加决赛，昌河中学徐文颖、王欣朔、张欣宇荣获一等奖，刘圣茜、江晓婧、李刘泓获二等奖,3，7月26日至30日，由教育部高校学生司指导、中国高校招生研究会主办的《高校招生》杂志社与北京大学、清华大学等十所名校联合主办的全国创新英语总结赛在北京举行，来自全国各地300多名高中英语特长生参赛，昌河中学7名同学晋级决赛，戴汉宸参加总决赛，荣获二等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 谈到新学年的工作，段校长重点讲了工作思路：1，进一步确立学校的办学理念，以培养健全的人格，培养基本素养，培养关键能力为主要内容；2，以建规范的管理秩序，建高素质的教师队伍，打造高效课堂，打造经典素质教育活动为手段；3，以夯实基础，提升素质，全面发展，创造特色，提高品位，提高质量为办学目标；4，创造志存高远，励精竭力，踏实稳健的校风；把立志勤勉，善思明辨，踏实稳健，坚韧有恒，追求卓越作为校训；发扬“不畏难，敢拼搏，勇争先”的昌河中学精神；在教学工作中要以改进我们的课堂教学为主要抓手每位教师都要反思影响我们课堂的教学质量的因素，并推广我们课堂的教学质量好的做法，打造高效课堂，向更高的教学质量迈进。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 参加会议的校领导还有：金昂，刘勇，康乐阗，舒伟明，方文华。<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

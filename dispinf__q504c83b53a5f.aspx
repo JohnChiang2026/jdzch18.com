@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -101,7 +101,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG> 昌河中学第十六届校园艺术节<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 卡拉ok比赛及硬笔书法获奖名单</STRONG></FONT></DIV>
 <DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 卡拉OK获奖名单<BR>一等奖<BR>初三（2）魏世航 张思淳、高二（5）杨程成 彭玉婉、&nbsp; 高二（7）唐蕾<BR>初二(1)黄晓雪<BR>二等奖<BR>高二（4）汤力 、 高二（2）章兴 、初一（1）张域 杨子璇 、<BR>高二（3）万芷君 张婉琳、 高一（4）孙若云 、 初二（6）徐东杰<BR>三等奖<BR>高二（1）王晗瑞、&nbsp; 初三（6）卜逸灵 黄紫薇、&nbsp; 高一（5）李铭浩、<BR>高三（6）梁蓉容 林泓铭、高二（1）杨滢婷 徐羽萱、高一（1）陈雨安、<BR>高一（6）叶瑞恒、高三（1）张可欣 刘嘉雯、高二（6）史曼铷<BR>高一（5）王紫怡 汪淑娴、初二（1）陈钰淇<BR>硬笔书法获奖名单<BR>高中组一等奖：<BR>李刘泓 楼泽寰 吴越萌 戴汉宸 李雪一 <BR>高中组二等奖：<BR>陈钰媛 刘丹丹 李叶彬 胡诗梦 徐文颖 张冠民 阮新蕾 张 珺<BR>高中组三等奖：<BR>钟楚君 王晗瑞 孙毕成 陈青云 骆昊楠 徐晓雨 袁铭钰 潭楚妍&nbsp;&nbsp; 孙曼琳&nbsp; 王瀚淋 孙佳钰 杨婉怡 李芷君 陈 静 唐晓立<BR>初中组一等奖：<BR>吴瑶慧 代 薇 江奇珍 余若涵 王宇洋 <BR>初中组二等奖：<BR>董子琦 杨雨欣 刘俊文 蒋纪辰 刘文希 韩子梦 钟雅杰 欧阳莹珈<BR>初中组三等奖：周佳慧 董安琪 曹景霞 王思尧 周君豪 詹雨辰 李诗雨 刘腾鹏&nbsp;&nbsp; 黄亚萱&nbsp; 江雨薇&nbsp; 周伟豪&nbsp; 张夏琦</FONT></DIV>
-<DIV><BR>&nbsp;</DIV>   </span>
+<DIV><BR>&nbsp;</DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

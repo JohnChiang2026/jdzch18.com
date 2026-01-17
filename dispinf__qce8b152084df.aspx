@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -98,7 +98,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV>各处室、各年级组：<BR>　　当前全国防控甲型H1N1流感的形势非常严峻。景德镇有市直中学出现了重症病例；有市直中学和小学出现一个班级几十人同时感冒，也出现几个班停课的情况；当前感冒的80％是属于甲型流感；甲型流感不但传播快而且危害也大。全校师生必须引起高度重视。为了进一步落实防控工作，经校长办公会研究决定，补充通知如下：<BR>　　一、各班要做好宣传教育工作，明确当前防控工作的严峻形势，加强个人卫生和公共卫生。要教育学生尽量不与感冒的人员接触，不到人多的地方凑热闹，不吃无证经营的不洁食品，不带快餐之类的食物在学校用餐。<BR>　　二、每天班主任负责本班晨检工作，并作好纪录，同时要填写报表及时报政教处。各年级工会小组长负责本年级教师的晨检工作，并作好纪录，同时要填写报表报政教处。晨检要做到全员询问和观察测量相结合，要善于发现，及时发现。<BR>　　三、不论是学生还是教师出现发烧并伴有下列四种症状之一：（1）咳嗽；（2）咽痛（3）鼻塞（3）流涕：就必须回家治疗观察一周。<BR>　　四、班主任要安排学生课间和放学后的开窗通风工作，并检查落实。工会小组长要安排落实各办公室的开窗通风工作。<BR>　　五、在家观察的学生，班主任负责每天至少一个电话追踪了解情况，并作好纪录；在家观察的教师，工会小组长每天至少一个电话追踪了解情况，并作好纪录。<BR>　　六、政教处要安排专人负责，每天督促、检查班主任做好各项工作，并及时统计报表，每天及时把统计的情况向有关部门报告。对甲型流感防控工作按10分逐月对班主任进行考核。总务处要负责每周一次教室和公共活动场所的消毒工作。<BR></DIV>   </span>
+                    	<span id="lbcontent"><DIV>各处室、各年级组：<BR>　　当前全国防控甲型H1N1流感的形势非常严峻。景德镇有市直中学出现了重症病例；有市直中学和小学出现一个班级几十人同时感冒，也出现几个班停课的情况；当前感冒的80％是属于甲型流感；甲型流感不但传播快而且危害也大。全校师生必须引起高度重视。为了进一步落实防控工作，经校长办公会研究决定，补充通知如下：<BR>　　一、各班要做好宣传教育工作，明确当前防控工作的严峻形势，加强个人卫生和公共卫生。要教育学生尽量不与感冒的人员接触，不到人多的地方凑热闹，不吃无证经营的不洁食品，不带快餐之类的食物在学校用餐。<BR>　　二、每天班主任负责本班晨检工作，并作好纪录，同时要填写报表及时报政教处。各年级工会小组长负责本年级教师的晨检工作，并作好纪录，同时要填写报表报政教处。晨检要做到全员询问和观察测量相结合，要善于发现，及时发现。<BR>　　三、不论是学生还是教师出现发烧并伴有下列四种症状之一：（1）咳嗽；（2）咽痛（3）鼻塞（3）流涕：就必须回家治疗观察一周。<BR>　　四、班主任要安排学生课间和放学后的开窗通风工作，并检查落实。工会小组长要安排落实各办公室的开窗通风工作。<BR>　　五、在家观察的学生，班主任负责每天至少一个电话追踪了解情况，并作好纪录；在家观察的教师，工会小组长每天至少一个电话追踪了解情况，并作好纪录。<BR>　　六、政教处要安排专人负责，每天督促、检查班主任做好各项工作，并及时统计报表，每天及时把统计的情况向有关部门报告。对甲型流感防控工作按10分逐月对班主任进行考核。总务处要负责每周一次教室和公共活动场所的消毒工作。<BR></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -123,7 +124,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

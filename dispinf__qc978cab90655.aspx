@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1月29日下午，昌河中学全体教职员工在学术报告厅召开学河北衡水中学经验介绍大会，校长段文彬作经验介绍报告。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 段校长的经验介绍报告主要内容包括：衡水中学办学理念，衡水中学的主要经验，衡水中学的教学成果和衡水中学给人留下深刻印象的一些具体做法。段校长在介绍衡水中学经验的时候，采用了多媒体，图文并茂，并结合昌河中学的实际，给广大教师留下了深刻的印象。听完报告后，教师们纷纷表示，河北衡水中学经验值得学习，希望把其中的一些做法应用到自己的教育教学当中来，不断提高我校的教育教学水平。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1月29日下午，昌河中学全体教职员工在学术报告厅召开学河北衡水中学经验介绍大会，校长段文彬作经验介绍报告。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 段校长的经验介绍报告主要内容包括：衡水中学办学理念，衡水中学的主要经验，衡水中学的教学成果和衡水中学给人留下深刻印象的一些具体做法。段校长在介绍衡水中学经验的时候，采用了多媒体，图文并茂，并结合昌河中学的实际，给广大教师留下了深刻的印象。听完报告后，教师们纷纷表示，河北衡水中学经验值得学习，希望把其中的一些做法应用到自己的教育教学当中来，不断提高我校的教育教学水平。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

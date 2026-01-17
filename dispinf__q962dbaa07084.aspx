@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,16 +99,17 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104170011.jpg"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104170011.jpg"></FONT></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104170045.jpg"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104170045.jpg"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104170113.jpg"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104170113.jpg"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104170141.jpg"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104170141.jpg"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104170216.jpg"></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 迎接2016年元旦，丰富校园文化生活，发挥学生特长，充分展现学生的综合素质，展现学生对梦想的不懈追求与努力奋斗过程中不畏难、敢拼搏精神面貌，昌河中学从2015年12月15日开始举行一系列校园文化活动，包括硬笔书法比赛、各班“班级之星”评比、全校元旦文艺汇演等，本次校园艺术节的主题为“树立核心价值观，弘扬时代正能量”。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 校园艺术节的重头戏是12月31日上午举行的全校元旦文艺汇演。31日上午，阳光普照，校园旗杆下，舞台上精彩的表演，台下观众热烈的掌声和欢乐的笑声，给冬日的校园带来一派欢乐祥和的景象。本次艺术节的节目都是同学们自编自导的，节目丰富多彩，反映积极向上的校园文化和社会主义核心价值观等正能量，有歌曲《祖国·母语》《仰望星空》，有歌舞《秋风河》《我多想唱》，有大合唱《跪羊图》等。<BR></DIV></FONT>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104170216.jpg"></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 迎接2016年元旦，丰富校园文化生活，发挥学生特长，充分展现学生的综合素质，展现学生对梦想的不懈追求与努力奋斗过程中不畏难、敢拼搏精神面貌，昌河中学从2015年12月15日开始举行一系列校园文化活动，包括硬笔书法比赛、各班“班级之星”评比、全校元旦文艺汇演等，本次校园艺术节的主题为“树立核心价值观，弘扬时代正能量”。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 校园艺术节的重头戏是12月31日上午举行的全校元旦文艺汇演。31日上午，阳光普照，校园旗杆下，舞台上精彩的表演，台下观众热烈的掌声和欢乐的笑声，给冬日的校园带来一派欢乐祥和的景象。本次艺术节的节目都是同学们自编自导的，节目丰富多彩，反映积极向上的校园文化和社会主义核心价值观等正能量，有歌曲《祖国·母语》《仰望星空》，有歌舞《秋风河》《我多想唱》，有大合唱《跪羊图》等。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -133,7 +134,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、上周值周班级初二（2）班的同学们在班主任李重民老师的组织和指挥下，校园卫生的清理和维护都做得很好，尽管本周下雨日子多，同学们冒雨参加劳动，表现突出，精神可嘉。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、上周是开学后的第二周，学校教育教学运转正常。周一下午召开了学校领导班子例会，周四下午召开了教研组长、年级组长会议。周四下午学校还举行了高三文科文综复习应考报告会，由本校特级教师刘煜主讲，高三全体文科学生出席。周五下午召开了初三、高三毕业班领导小组会议。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、上周书记和校长参加了全市县级领导干部学习贯彻习近平系列讲话精神研讨班的学习，听取了市委常委纪委书记梅亦，市委常委常务副市长于秀明，市委常委组织部长史文斌的辅导报告。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 四、上周四下午校长和书记还参加了市教育局召开的两个会议：一是市教育局2013年纪检监察工作表彰总结会，二是市教育局党的群众路线教育活动动员大会。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 五、上周校园安全，秩序良好，平安稳定，各项工作有序进行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月3日上午<BR></FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、上周值周班级初二（2）班的同学们在班主任李重民老师的组织和指挥下，校园卫生的清理和维护都做得很好，尽管本周下雨日子多，同学们冒雨参加劳动，表现突出，精神可嘉。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、上周是开学后的第二周，学校教育教学运转正常。周一下午召开了学校领导班子例会，周四下午召开了教研组长、年级组长会议。周四下午学校还举行了高三文科文综复习应考报告会，由本校特级教师刘煜主讲，高三全体文科学生出席。周五下午召开了初三、高三毕业班领导小组会议。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、上周书记和校长参加了全市县级领导干部学习贯彻习近平系列讲话精神研讨班的学习，听取了市委常委纪委书记梅亦，市委常委常务副市长于秀明，市委常委组织部长史文斌的辅导报告。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 四、上周四下午校长和书记还参加了市教育局召开的两个会议：一是市教育局2013年纪检监察工作表彰总结会，二是市教育局党的群众路线教育活动动员大会。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 五、上周校园安全，秩序良好，平安稳定，各项工作有序进行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月3日上午<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

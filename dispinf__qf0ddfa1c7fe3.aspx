@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,14 +99,15 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140523083041.JPG"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140523083041.JPG"></FONT></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140523083147.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140523083147.JPG"></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140523083203.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140523083203.JPG"></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140523083217.JPG">&nbsp;</DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月20日下午，昌河中学学校篮球场装扮一新，漂亮的舞台和巨大的彩虹门背景充满着喜庆气氛，高二年级300多名学生正在举行隆重热烈的成人宣誓仪式，市教育局党委委员、副书记胥慧强参加成人宣誓仪式并致祝词，昌河中学校长段文彬、书记刘三科及学校其他领导参加成人宣誓仪式，段校长为仪式致辞。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 胥书记在祝词中代表市教育局向步入成年的同学们表示热烈的祝贺，今天同学们行成人礼，预示着将承担更大的责任，希望同学们树立远大的理想，相信自己的力量，并刻苦学习，将来报效祖国。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;段校长在致辞中代表学校向步入成年行列的同学们致以热烈的祝贺，向多年来为同学们的健康成长付出心血的家长和老师们表示衷心的感谢；举办成人宣誓是我校一项传统的教育活动，同学们通过这个活动，感受人生进入一个重要阶段，进一步确立人生方向，要担当责任，做一个懂感恩、有理想、担责任的人；希望同学们努力学习，发扬“不畏难、敢拼搏、勇争先”的昌河中学精神，通过月考，每次上一个台阶，面对2015年的高考，实现人生的大跨越。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式开始，全体师生起立，唱国歌，在老师的引领下，同学们进行成人宣誓，家长代表和学生代表先后发言。在成人宣誓仪式上，同学们还表演了精彩的文艺节目，有大合唱《相信我们会创造奇迹》、舞蹈《多彩的青春》、手语舞《爱》等。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式由学校团委主办，今年的主题是“与祖国和人民同行，努力创造精彩人生”。<BR></DIV></FONT>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140523083217.JPG">&nbsp;</DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月20日下午，昌河中学学校篮球场装扮一新，漂亮的舞台和巨大的彩虹门背景充满着喜庆气氛，高二年级300多名学生正在举行隆重热烈的成人宣誓仪式，市教育局党委委员、副书记胥慧强参加成人宣誓仪式并致祝词，昌河中学校长段文彬、书记刘三科及学校其他领导参加成人宣誓仪式，段校长为仪式致辞。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 胥书记在祝词中代表市教育局向步入成年的同学们表示热烈的祝贺，今天同学们行成人礼，预示着将承担更大的责任，希望同学们树立远大的理想，相信自己的力量，并刻苦学习，将来报效祖国。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;段校长在致辞中代表学校向步入成年行列的同学们致以热烈的祝贺，向多年来为同学们的健康成长付出心血的家长和老师们表示衷心的感谢；举办成人宣誓是我校一项传统的教育活动，同学们通过这个活动，感受人生进入一个重要阶段，进一步确立人生方向，要担当责任，做一个懂感恩、有理想、担责任的人；希望同学们努力学习，发扬“不畏难、敢拼搏、勇争先”的昌河中学精神，通过月考，每次上一个台阶，面对2015年的高考，实现人生的大跨越。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式开始，全体师生起立，唱国歌，在老师的引领下，同学们进行成人宣誓，家长代表和学生代表先后发言。在成人宣誓仪式上，同学们还表演了精彩的文艺节目，有大合唱《相信我们会创造奇迹》、舞蹈《多彩的青春》、手语舞《爱》等。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式由学校团委主办，今年的主题是“与祖国和人民同行，努力创造精彩人生”。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -131,7 +132,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

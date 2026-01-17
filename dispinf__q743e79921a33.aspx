@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,14 +99,15 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150511095948.jpg"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150511095948.jpg"></FONT></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150511100002.jpg"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150511100002.jpg"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150511100013.jpg"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150511100013.jpg"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150511100023.jpg"></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近日我校英语组成功举办了“昌河中学第三届英语才艺汇演”活动。本次活动分为三个阶段：<BR>1.&nbsp;第一阶段---英语主持人海选<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 来自初一、初二的几十位主持人参赛选手，经过第一轮现场播报指定英文稿件，入围24位主持人。在第二轮英语才艺选拔赛、实习主持中，选出了12位优秀主持人。在第三轮校广播站播报英语新闻以及才艺活动决赛中，选出六位最佳主持人：吕井然、黄怿、彭千倩、张子涵、潘欣萌、陈俊逸。<BR>2．第二阶段---才艺节目选拔赛<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 初一、初二学生分年级进行英语才艺表演，其中从初一年级中选拔出16个节目进入复赛，初二年级选拔出27个节目进入复赛。才艺节目形式多样，包括：歌曲、小品、舞台话剧、音乐剧等。<BR>3.第三阶段----才艺节目决赛及颁奖仪式<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在两个年级才艺节目汇演的过程中，评选出7个一等奖节目，12个二等奖节目，若干个三等奖节目。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次活动完全由学生们自编、自导、自主策划完成。其中：高二（1）班学生王昊轩担任总导演。在上一届英语才艺汇演获得最佳演员的孙若云同学担任学生舞台艺术指导老师。而活动现场的工作人员则来自初一、初二的学生志愿者。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次“英语才艺汇演”活动，获得了学校老师、领导以及学生家长（其中多位学生家长就是本校老师）幕前、幕后的大力支持。如：家长热情参与学生课件制作。全体英语老师负责学生们各个阶段才艺比拼的打分工作以及学生英文稿件的语法批改及润色；报告厅负责人李振海老师及时处理问题话筒或调节音响效果；政教处吴少华主任实拍摄学生表演过程；段校长全程观摩学生们的才艺决赛节目及颁奖仪式，并和孩子们合影留念。在为时一个月的英语才艺汇演系列活动中，同学们学习英语的热情高涨，期间学生们的英语综合运用能力，管理、组织、协调能力也得到极大锻炼和提高，这也正体现了昌河中学一贯提倡的：对学生进行“素质教育”，提升学生“综合能力”的教学理念！<BR></DIV></FONT>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150511100023.jpg"></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近日我校英语组成功举办了“昌河中学第三届英语才艺汇演”活动。本次活动分为三个阶段：<BR>1.&nbsp;第一阶段---英语主持人海选<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 来自初一、初二的几十位主持人参赛选手，经过第一轮现场播报指定英文稿件，入围24位主持人。在第二轮英语才艺选拔赛、实习主持中，选出了12位优秀主持人。在第三轮校广播站播报英语新闻以及才艺活动决赛中，选出六位最佳主持人：吕井然、黄怿、彭千倩、张子涵、潘欣萌、陈俊逸。<BR>2．第二阶段---才艺节目选拔赛<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 初一、初二学生分年级进行英语才艺表演，其中从初一年级中选拔出16个节目进入复赛，初二年级选拔出27个节目进入复赛。才艺节目形式多样，包括：歌曲、小品、舞台话剧、音乐剧等。<BR>3.第三阶段----才艺节目决赛及颁奖仪式<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在两个年级才艺节目汇演的过程中，评选出7个一等奖节目，12个二等奖节目，若干个三等奖节目。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次活动完全由学生们自编、自导、自主策划完成。其中：高二（1）班学生王昊轩担任总导演。在上一届英语才艺汇演获得最佳演员的孙若云同学担任学生舞台艺术指导老师。而活动现场的工作人员则来自初一、初二的学生志愿者。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次“英语才艺汇演”活动，获得了学校老师、领导以及学生家长（其中多位学生家长就是本校老师）幕前、幕后的大力支持。如：家长热情参与学生课件制作。全体英语老师负责学生们各个阶段才艺比拼的打分工作以及学生英文稿件的语法批改及润色；报告厅负责人李振海老师及时处理问题话筒或调节音响效果；政教处吴少华主任实拍摄学生表演过程；段校长全程观摩学生们的才艺决赛节目及颁奖仪式，并和孩子们合影留念。在为时一个月的英语才艺汇演系列活动中，同学们学习英语的热情高涨，期间学生们的英语综合运用能力，管理、组织、协调能力也得到极大锻炼和提高，这也正体现了昌河中学一贯提倡的：对学生进行“素质教育”，提升学生“综合能力”的教学理念！<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -131,7 +132,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

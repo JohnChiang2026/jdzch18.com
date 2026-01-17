@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -100,7 +100,7 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=5><FONT color=#cc0000>昌河中学第十届学生会干部名单<BR></FONT>主席：赖&nbsp; 璇<BR>副主席：江雨璇&nbsp;&nbsp; 金&nbsp; 旭&nbsp;&nbsp; 刘逸哲<BR>学习部：&nbsp; 部长：康烜黄<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副部长：余&nbsp; 佳&nbsp;&nbsp;&nbsp; 张超尘<BR>宣传部：&nbsp; 部长：魏艳伟<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副部长：江渝婷&nbsp;&nbsp;&nbsp; 胡&nbsp; 晨&nbsp;&nbsp;&nbsp; 李学敏<BR>文艺部：&nbsp; 部长：周佳怡<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副部长：金&nbsp; 铭&nbsp;&nbsp;&nbsp; 余思琦&nbsp;&nbsp;&nbsp;&nbsp; 周智键<BR>体育部：&nbsp; 部长：刘宇辉 <BR>&nbsp; 副部长：温&nbsp; 柔&nbsp;&nbsp; 郑斌强<BR>环保部：&nbsp; 部长：陈晗冰&nbsp; <BR>&nbsp; 副部长：刘炫灵&nbsp;&nbsp; 涂昌伟<BR>社会实践部：&nbsp; 部长：史嘉雯<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副部长：周安珺&nbsp;&nbsp; 钟&nbsp; 磊&nbsp;&nbsp;&nbsp; 王&nbsp; 琦</FONT></DIV>
-<DIV><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100119155948.JPG"></FONT></DIV>
+<DIV><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100119155948.JPG"></FONT></DIV>
 <DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT color=#cc0000>&nbsp; 学校领导与新一届学生会干部合影</FONT><BR></DIV></FONT></span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
@@ -127,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
             <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
-            href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
+            href=http://jdzch18.hanze.icu/>http://jdzch18.hanze.icu/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
         <TR>

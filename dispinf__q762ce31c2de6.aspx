@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -103,7 +103,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
 <DIV><FONT size=5>一、申请资格<BR>1、资助对象为“普通高中贫困家庭学生档案库”中的学生（入库学生）。<BR>2、户籍所在地为珠山区（昌江区户籍学生将申报材料报送学生户籍所在地街道民政办审核，由民政办统一报送昌江区教育局）。<BR>3、学生家庭确实困难。</FONT></DIV>
 <DIV><FONT size=5>4、军校生、国防生及免费的师范生不在资助之列。</FONT></DIV>
 <DIV><FONT size=5>二、学校上交审验材料八份（按序号顺序装订）<BR>1、江西省高中贫困家庭学生档案基本信息表（学校盖章）；<BR>2、学生个人申请报告（用A4纸张）；<BR>3、江西省高中贫困家庭学生高考入学政府资助金申请表（可网上下载）；<BR>4、身份证（原件、复印件,两面复印）；<BR>5、准考证（原件、复印件）；<BR>6、录取通知书（原件、复印件）；<BR>7、户口本（原件、复印件、有内容须每页复印）<BR>8、属城市低保户子女，提供低保证。（原件、复印件、有内容须每页复印）。低保证经由县（市、区）救助局（办）2014年6月之后的审验章。<BR>材料交来后，市教育局资助中心人员当即审核，审核无误后，学校将原件带回。<BR>三、送市资助管理中心的时间安排：<BR>1、7月25日，录取提前及一本的贫困大学新生申请材料；<BR>2、8月3日，录取二本的贫困大学新生申请材料；<BR>3、8月12日，录取三本的贫困大学新生申请材料；<BR>4、8月18日，录取专科的贫困大学新生申请材料；<BR>注：1、已在网上录取，暂没有拿到录取通知书的学生可先送材料，由学校提交证明材料，等拿到录取通知书后再及时补交。<BR>&nbsp;&nbsp;&nbsp; 2、学生一定要保管好普通高中高考志愿填报密码卡和准考证。（受助学生只有输入填报志愿密码卡密码才能打印《获得高考入学政府资助金资格确认书》。<BR>&nbsp;&nbsp;&nbsp; 3、申请报告和申请表及其他复印件在7月10日前交学校政教处。</FONT></DIV>
-<DIV><FONT size=5>&nbsp;&nbsp;&nbsp; 4、所有复印件统一用A4纸张复印。<BR><BR></FONT></DIV>   </span>
+<DIV><FONT size=5>&nbsp;&nbsp;&nbsp; 4、所有复印件统一用A4纸张复印。<BR><BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -128,7 +129,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,9 +99,10 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104165629.jpg"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104165629.jpg"></FONT></DIV>
 <DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为丰富学生课余生活，开展德育课堂，教育和激励我校学生奋发进取，共同进步，树立社会主义核心价值观，增强社会责任感和使命感，努力营造良好的学风、校风，构建和谐校园，推进校园文化建设，2015年12月，我校举办了第十八届校园艺术节，陆续开展了“班级之星”评选、卡拉OK比赛、硬笔书法比赛活动。其中，各班根据自身实际情况，挖掘同学的闪光点，量身定做，各有10名同学当选“班级之星”；参加卡拉OK比赛的选手，克服了时间紧、排练少的困难，情绪饱满，歌声嘹亮，在比赛中表现出了较高的水平，充分展现了我校学生良好的精神风貌；硬笔书法比赛得到各班的高度重视，派出最优秀的选手参加，经过认真评选，共有69位同学获奖，其中一等奖16名，二等奖22名，三等奖31名。为表彰在活动中表现突出、成绩优异的同学，特此予以通报表扬。学校希望获得表彰的同学珍惜荣誉，再接再厉，再创业绩，希望其他班级及同学学先进，赶先进，超先进！在新的一年里，取得更好、更优异的成绩！&nbsp;</FONT></DIV>
-<DIV><FONT size=4>1、“班级之星”名单<BR>2、卡拉OK获奖名单<BR>一等奖<BR>刘静怡、岑周周、万承鑫、魏世航、唐之恒、马闻天、夏云韬、王梓乐、祝杰旺<BR>二等奖<BR>祝杰旺、严艺菲、斯燕、王悦迪、凌语婕、张夏琦、朱雨杰、吕井然、汪文思、陈玺羽、王小丹、毛佩瑶、余佳惠<BR>3、硬笔书法获奖名单<BR>一等奖<BR>初一：于嘉琪&nbsp; 马婧懿 吴玉婷&nbsp; 彭羽扬&nbsp; <BR>初三：李陆希&nbsp; 董子琦<BR>高一：黄倩怡&nbsp; 徐诗怡&nbsp; <BR>高二：时晓静&nbsp; 刘洁琛&nbsp; 刘璇玥&nbsp; 李雯艺&nbsp; 岑周周&nbsp; 唐玲丽&nbsp; 肖 遥&nbsp; <BR>高三：方梦雨&nbsp;&nbsp;&nbsp; <BR>二等奖<BR>初一：裴淑贤&nbsp; 刘媛媛&nbsp; 李宇书&nbsp; 邱一洲&nbsp; 卢之韵&nbsp; <BR>初二：陈鑫琳&nbsp; 胡若雅&nbsp; 章瑜静&nbsp; <BR>初三：金子扬&nbsp; 顾媛萍<BR>高一：唐慧琳 何唯锐 李诗雨 伍思静 罗嘉悦 <BR>高二：周金鑫 陈雅文 齐静弦 史亚萍 李子君&nbsp; 钟楚君 <BR>高三：袁铭钰 <BR>三等奖<BR>初一：易扬景&nbsp; 王心怡<BR>初二：周诠珍&nbsp; 周滋雨&nbsp; 郑欣宇&nbsp; 周成艺&nbsp; 蒋薇&nbsp; 童言<BR>初三：程婧婷&nbsp; 杨雨欣&nbsp; 汪婧琦 代薇 曹景霞 周君豪 李雨欣&nbsp; <BR>高一：余若涵&nbsp; 杨玉莉 甘琦 王宇洋 李辛钰 徐静怡 陆奕昕 江其珍 <BR>高二：贺晨媛&nbsp; 江雨薇 王佳琪 何珊 付洁雅 邹怡娜<BR>高三：刘师颖&nbsp; 王羽菲<BR><BR></DIV></FONT>   </span>
+<DIV><FONT size=4>1、“班级之星”名单<BR>2、卡拉OK获奖名单<BR>一等奖<BR>刘静怡、岑周周、万承鑫、魏世航、唐之恒、马闻天、夏云韬、王梓乐、祝杰旺<BR>二等奖<BR>祝杰旺、严艺菲、斯燕、王悦迪、凌语婕、张夏琦、朱雨杰、吕井然、汪文思、陈玺羽、王小丹、毛佩瑶、余佳惠<BR>3、硬笔书法获奖名单<BR>一等奖<BR>初一：于嘉琪&nbsp; 马婧懿 吴玉婷&nbsp; 彭羽扬&nbsp; <BR>初三：李陆希&nbsp; 董子琦<BR>高一：黄倩怡&nbsp; 徐诗怡&nbsp; <BR>高二：时晓静&nbsp; 刘洁琛&nbsp; 刘璇玥&nbsp; 李雯艺&nbsp; 岑周周&nbsp; 唐玲丽&nbsp; 肖 遥&nbsp; <BR>高三：方梦雨&nbsp;&nbsp;&nbsp; <BR>二等奖<BR>初一：裴淑贤&nbsp; 刘媛媛&nbsp; 李宇书&nbsp; 邱一洲&nbsp; 卢之韵&nbsp; <BR>初二：陈鑫琳&nbsp; 胡若雅&nbsp; 章瑜静&nbsp; <BR>初三：金子扬&nbsp; 顾媛萍<BR>高一：唐慧琳 何唯锐 李诗雨 伍思静 罗嘉悦 <BR>高二：周金鑫 陈雅文 齐静弦 史亚萍 李子君&nbsp; 钟楚君 <BR>高三：袁铭钰 <BR>三等奖<BR>初一：易扬景&nbsp; 王心怡<BR>初二：周诠珍&nbsp; 周滋雨&nbsp; 郑欣宇&nbsp; 周成艺&nbsp; 蒋薇&nbsp; 童言<BR>初三：程婧婷&nbsp; 杨雨欣&nbsp; 汪婧琦 代薇 曹景霞 周君豪 李雨欣&nbsp; <BR>高一：余若涵&nbsp; 杨玉莉 甘琦 王宇洋 李辛钰 徐静怡 陆奕昕 江其珍 <BR>高二：贺晨媛&nbsp; 江雨薇 王佳琪 何珊 付洁雅 邹怡娜<BR>高三：刘师颖&nbsp; 王羽菲<BR><BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

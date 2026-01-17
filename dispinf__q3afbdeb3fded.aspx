@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -139,7 +139,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
 <DIV><FONT size=3>学习 刘禹婧 刘晓迪&nbsp; 文明 涂倩怡&nbsp; 劳动 丁博坤&nbsp; 孝敬 戴依玲&nbsp; 书写 刘欣怡&nbsp; 进步 尉嘉豪&nbsp; 守纪 林忆欣&nbsp; 管理 张义志 安全 胡澄伟&nbsp; 潜力 夏云韬 <BR>高三（4）</FONT></DIV>
 <DIV><FONT size=3>学习 张丽卿 刘靖雯&nbsp; 安全 徐 婧&nbsp; 劳动 王思源&nbsp; 管理 邓环宇&nbsp; 孝敬 邹梦佳&nbsp; 运动 朱家豪&nbsp; 文明&nbsp; 徐 晶&nbsp; 全能 胡鸿达 助人 胡佳钰&nbsp; 进步 吴丽珠 唐世超<BR>高三（5）</FONT></DIV>
 <DIV><FONT size=3>学习 余露露 张志玲&nbsp; 进步 袁淑芬&nbsp; 纪律 陈文洁&nbsp; 卫生 徐慧怡管理 张怡洁 文体 梁福麒&nbsp; 安全 余雅婷&nbsp; 礼仪 吴文平&nbsp; 助人 徐春兰&nbsp; 书写 姚雨岑 <BR>高三（6）</FONT></DIV>
-<DIV><FONT size=3>劳动 陈钰媛 潜力 葛钰婷 学习 叶瑞恒 奉献 金馨晨 管理 王敏萱&nbsp; 劳动 祝智健&nbsp; 英语 谭楚妍&nbsp; 进步 李思宇&nbsp; 智慧 樊琳悦&nbsp; 进步 芦菀晴 友爱 孟婷薇&nbsp; 责任 黄哲宇&nbsp; 生活 徐曼菲&nbsp; 上进 孙景文 勤奋 蔡子玉</FONT></DIV>   </span>
+<DIV><FONT size=3>劳动 陈钰媛 潜力 葛钰婷 学习 叶瑞恒 奉献 金馨晨 管理 王敏萱&nbsp; 劳动 祝智健&nbsp; 英语 谭楚妍&nbsp; 进步 李思宇&nbsp; 智慧 樊琳悦&nbsp; 进步 芦菀晴 友爱 孟婷薇&nbsp; 责任 黄哲宇&nbsp; 生活 徐曼菲&nbsp; 上进 孙景文 勤奋 蔡子玉</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -164,7 +165,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

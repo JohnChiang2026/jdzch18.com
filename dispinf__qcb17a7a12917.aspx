@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,9 +99,10 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140410171155.JPG"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140410171155.JPG"></FONT></DIV>
 <DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为活跃校园气氛，陶冶高尚情操，提升学生的文学素养，进一步推进校园文化建设，昌河中学4月3日下午在学术报告厅举行了第二届“谷雨诗会”朗诵比赛，校长段文彬书记刘三科和其他学校领导及师生200多人观摩了比赛，段校长还为本届诗会进行了总结讲话。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届“谷雨诗会”朗诵比赛由校团委和语文组联合主办，共有34组学生参加3月27日的初赛，经过选拔共有14组学生进入4月3日下午的决赛。学生们选用的诗歌内容丰富，有表现积极向上人生观的《致橡树》、《青春的歌》，有歌颂父母之恩的《这一跪》、《感恩的心》，有歌颂老师的《老师，您可知道》，还有歌颂祖国的《我骄傲，我是中国人》、《中国梦》等等；形式多样，有独自朗诵，也有合作朗诵，并有配乐和精美的幻灯背景。整个决赛现场，气氛热烈，给人视觉的享受，听觉的沉醉，是一场诗歌艺术的盛宴。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 经过校领导和语文老师组成的评委打分，决出初高中组的一、二、三等奖，其中，高一（1）班黄浩东同学和叶瑞恒同学朗诵的《我骄傲，我是中国人》、高一（4）班陈丽娜同学和朱琪霞同学朗诵的《中国梦》、高二（5）班张钧驰同学朗诵的《一颗树的选择》获高中组一等奖，初一（3）班朱紫仪同学朗诵的《相信未来》、初一（1）班潘欣萌同学朗诵的《生命幻想曲》获初中组一等奖，段校长等学校领导为获奖学生进行了颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 另外在3月份，还举行了昌河中学“谷雨”诗会征文比赛，共收到稿件500多篇，经过评选，共选出一、二、三等奖63篇。在4月3日朗诵会上校领导为征文比赛获奖的同学进行了颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 部分“谷雨”诗会获奖的同学还将代表学校参加全市中学生“谷雨”诗会征文比赛和朗诵比赛。</FONT></DIV>
-<DIV><FONT size=4></FONT>&nbsp;</DIV>   </span>
+<DIV><FONT size=4></FONT>&nbsp;</DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

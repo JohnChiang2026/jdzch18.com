@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -100,7 +100,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 聚焦正能量，实现中国梦</FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高二（7）班&nbsp;&nbsp; 饶妃<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 实现民族复兴的中国梦，是近代以来中华民族肩负的历史使命。实现中国梦必须走中国道路，必须弘扬中国精神，必须凝聚中国力量。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近三十年以来，中国的经济建设取得了举世瞩目的成就，综合国力和国际地位也随之不断提高，在世界经济低迷之际，中国经济不仅没有坠入衰退的泥潭，反而迎难而上，成为世界经济发展的得力推手，充分展示了中国强大的经济活力和面对“世界经济难题”的韧性。此外，中国在全球经济治理中的作用突出，乐于与世界共享自身的发展成果，体现了可贵的大国责任。外国人士高度评价中国发展的正能量。未来10年，人们还将更加关注中国的多边外交进程。通过更加的多边手段，中国将在国际舞台上声音越来越响亮，越来越自信！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国新一代领导人的执政之旅从两会闭幕开始，而刚刚闭幕的两会在民主政治上的实践与突破，成为这一执政之旅启航的最鲜明的注脚之一。这次两会完善了人民代表大会制度——60年来，全国人大代表首次实行城乡按相同人口比例选举，标志着农村人口在选举及政治权利的平等，向前迈出了一大步，成为中国社会主义民主政治进程中的又一里程碑。同时，优化代表结构，更多来自基层的代表，将基层声音带到国家最高议政殿堂，让两会更加接地气，通人气。这些改变前所未有，足足释放出了中国民主政治的伟大正能量！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “中国梦”是人民的“中国梦”，需要每个人积极参与。雷锋精神的传承就是每个中国人都可以践行的正能量，雷锋虽然逝去五十多年，但是雷锋精神的感召始终镌刻在人们心中，感染着人们。学习和践行雷锋精神，是我们这个略显“浮躁”的时代引领道德风尚，促进社会和谐进步的强力呼唤，雷锋精神植根祖国大地，感动你、我，不断凝聚起文明社会的正能量，让我们增强这一强大的正能量，让雷锋精神焕发出时代的光辉。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十三亿中华儿女的正能量是铸就“中国梦”的强劲的保障和动力。中国梦，你我共同的梦！<BR></FONT></DIV>   </span>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高二（7）班&nbsp;&nbsp; 饶妃<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 实现民族复兴的中国梦，是近代以来中华民族肩负的历史使命。实现中国梦必须走中国道路，必须弘扬中国精神，必须凝聚中国力量。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近三十年以来，中国的经济建设取得了举世瞩目的成就，综合国力和国际地位也随之不断提高，在世界经济低迷之际，中国经济不仅没有坠入衰退的泥潭，反而迎难而上，成为世界经济发展的得力推手，充分展示了中国强大的经济活力和面对“世界经济难题”的韧性。此外，中国在全球经济治理中的作用突出，乐于与世界共享自身的发展成果，体现了可贵的大国责任。外国人士高度评价中国发展的正能量。未来10年，人们还将更加关注中国的多边外交进程。通过更加的多边手段，中国将在国际舞台上声音越来越响亮，越来越自信！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国新一代领导人的执政之旅从两会闭幕开始，而刚刚闭幕的两会在民主政治上的实践与突破，成为这一执政之旅启航的最鲜明的注脚之一。这次两会完善了人民代表大会制度——60年来，全国人大代表首次实行城乡按相同人口比例选举，标志着农村人口在选举及政治权利的平等，向前迈出了一大步，成为中国社会主义民主政治进程中的又一里程碑。同时，优化代表结构，更多来自基层的代表，将基层声音带到国家最高议政殿堂，让两会更加接地气，通人气。这些改变前所未有，足足释放出了中国民主政治的伟大正能量！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “中国梦”是人民的“中国梦”，需要每个人积极参与。雷锋精神的传承就是每个中国人都可以践行的正能量，雷锋虽然逝去五十多年，但是雷锋精神的感召始终镌刻在人们心中，感染着人们。学习和践行雷锋精神，是我们这个略显“浮躁”的时代引领道德风尚，促进社会和谐进步的强力呼唤，雷锋精神植根祖国大地，感动你、我，不断凝聚起文明社会的正能量，让我们增强这一强大的正能量，让雷锋精神焕发出时代的光辉。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十三亿中华儿女的正能量是铸就“中国梦”的强劲的保障和动力。中国梦，你我共同的梦！<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -125,7 +126,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

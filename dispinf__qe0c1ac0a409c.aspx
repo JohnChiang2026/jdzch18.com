@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,10 +99,11 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140505154656.JPG"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140505154656.JPG"></FONT></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140505154709.JPG">&nbsp;</DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为深化“文明礼仪伴我成长，建设和谐魅力瓷都”主题教育活动，给学生搭建一个“展现自我、超越自我”的舞台，培养学生良好的阅读习惯和表达方式，提高学生口头表达能力，昌河中学举行了“茂昌眼镜杯”第三届“学生讲坛”活动。4月29日下午，在学校学术报告厅举行了“学生讲坛”活动的决赛，市教研所工会主席历史教研员胡慧萍、校长段文彬、书记刘三科和部分学校领导及200多名师生观摩了决赛，段校长还作总结讲话并为获奖的学生颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 进入“学生讲坛”活动的决赛的共有12名同学，他们是从4月9日预赛的34名同学中脱颖而出的。本次“学生讲坛”活动的学生来自高一和高二年级，活动由政史地教研组主办，讲坛的内容、话题由主讲人自选，主要是就时事重大历史事件、重要历史人物、文学、军事某方面进行深度评析。经过激烈的角逐，校领导和政史地老师组成的评委打分，周婧雅同学主讲的《政治的靓丽风景——第一夫人》、沈依婷同学主讲的《放下手机，做抬头族》和叶瑞恒同学主讲的《才子词人，白衣卿相》荣获一等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “学生讲坛”活动结束后，段校长为本次活动作总结讲话，段校长充分肯定了本次“学生讲坛”活动，它体现了我校素质教育和文科教学的高水平，并希望通过这样的活动，涌现更多的学习好，素质的学生。<BR></DIV></FONT>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140505154709.JPG">&nbsp;</DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为深化“文明礼仪伴我成长，建设和谐魅力瓷都”主题教育活动，给学生搭建一个“展现自我、超越自我”的舞台，培养学生良好的阅读习惯和表达方式，提高学生口头表达能力，昌河中学举行了“茂昌眼镜杯”第三届“学生讲坛”活动。4月29日下午，在学校学术报告厅举行了“学生讲坛”活动的决赛，市教研所工会主席历史教研员胡慧萍、校长段文彬、书记刘三科和部分学校领导及200多名师生观摩了决赛，段校长还作总结讲话并为获奖的学生颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 进入“学生讲坛”活动的决赛的共有12名同学，他们是从4月9日预赛的34名同学中脱颖而出的。本次“学生讲坛”活动的学生来自高一和高二年级，活动由政史地教研组主办，讲坛的内容、话题由主讲人自选，主要是就时事重大历史事件、重要历史人物、文学、军事某方面进行深度评析。经过激烈的角逐，校领导和政史地老师组成的评委打分，周婧雅同学主讲的《政治的靓丽风景——第一夫人》、沈依婷同学主讲的《放下手机，做抬头族》和叶瑞恒同学主讲的《才子词人，白衣卿相》荣获一等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “学生讲坛”活动结束后，段校长为本次活动作总结讲话，段校长充分肯定了本次“学生讲坛”活动，它体现了我校素质教育和文科教学的高水平，并希望通过这样的活动，涌现更多的学习好，素质的学生。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -127,7 +128,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

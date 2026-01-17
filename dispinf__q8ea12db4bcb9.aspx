@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=4>&nbsp;&nbsp;&nbsp; 4月22日下午，昌河中学在学术报告厅召开主要由班主任参加的安全工作会议，校长刘光明出席会议并讲话。</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100423180325.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘校长分析了当前校园安全工作的复杂性，要求全体校领导和班主任重视安全工作，并提出几点要求：交通安全，学生要遵守交通规则；体育课的安全，要求教师认真负责，学生加强自我保护意识；禁止上下课打闹，上下楼梯要有秩序；杜绝打架斗殴等恶性事件；爱护学生，对有伤病的学生及时就医并通知家长，没到校的学生也要及时和家长联系；不准中途赶学生回家取作业；抓好中午值班等。刘校长最后要求全体班主任23日的班会课上认真落实本次安全工作会议的精神。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在会上，副书记刘勇传达了市教育局安全维稳工作会议精神，副校长洪军和政教主任张宝瑞也发了言。会议由副校长段文彬主持。<BR></DIV></FONT>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100423180325.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘校长分析了当前校园安全工作的复杂性，要求全体校领导和班主任重视安全工作，并提出几点要求：交通安全，学生要遵守交通规则；体育课的安全，要求教师认真负责，学生加强自我保护意识；禁止上下课打闹，上下楼梯要有秩序；杜绝打架斗殴等恶性事件；爱护学生，对有伤病的学生及时就医并通知家长，没到校的学生也要及时和家长联系；不准中途赶学生回家取作业；抓好中午值班等。刘校长最后要求全体班主任23日的班会课上认真落实本次安全工作会议的精神。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在会上，副书记刘勇传达了市教育局安全维稳工作会议精神，副校长洪军和政教主任张宝瑞也发了言。会议由副校长段文彬主持。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

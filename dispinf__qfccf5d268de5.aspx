@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -100,13 +100,14 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11月27日下午，昌河中学在学校学术报告厅举行名著阅读知识大赛，校领导刘三科、金昂、康乐阗等观摩了比赛，金昂在颁奖仪式是上讲话。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本次名著阅读知识大赛分为名著才艺表演和名著知识竞答。参赛队由高二年级组成，每班出一个与名著有关的才艺节目和由五名同学组成一个知识竞答队伍。名著才艺表演节目有《歪批名著》《三打白骨精》《周瑜打黄盖》等，节目都由同学们自编自导。同学们的精彩的表演得到了台下的师生们的热烈掌声，经过由校领导和语文教师组成的评委打分，高二（2）班同学表演的《三打白骨精》获一等奖。名著知识竞答分为必答题、抢答题和加分题三种，经过激烈的竞答，高二（6）班获一等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 比赛结束后，校领导为各优胜队颁发了奖品和证书。金昂副校长作总结讲话。金副校长说，此次名著阅读大赛展现了昌河中学素质教育的风采，展示昌河中学文科的特色，丰富了同学们的课余生活，营造了读名著良好氛围，希望同学们多读名著，用好名著。</FONT></DIV>
-<DIV><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20141128163052.JPG"></FONT></DIV>
-<P><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20141128163137.JPG"></FONT></P>
-<P><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20141128163159.JPG"></FONT></P>
-<P><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20141128163228.JPG"></FONT></P>
-<P><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20141128163302.JPG"></FONT></P>
-<P><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20141128163327.JPG"></P>
-<DIV><BR></DIV></FONT>   </span>
+<DIV><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20141128163052.JPG"></FONT></DIV>
+<P><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20141128163137.JPG"></FONT></P>
+<P><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20141128163159.JPG"></FONT></P>
+<P><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20141128163228.JPG"></FONT></P>
+<P><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20141128163302.JPG"></FONT></P>
+<P><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20141128163327.JPG"></P>
+<DIV><BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -131,7 +132,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

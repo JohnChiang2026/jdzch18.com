@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,10 +99,11 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;<IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140930170411.JPG"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;<IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140930170411.JPG"></FONT></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140930170427.JPG">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;9月24日至27日，昌河中学高一新生进行了为期四天的军训活动。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;9月24日上午，高一新生在学校篮球场上召开了军训动员大会，校长段文彬作动员报告，书记刘三科主持大会并宣布军训计划要求。段校长在动员大会上说，军训是同学们社会实践课程的重要组成部分也是磨练同学们意志锻炼同学们身体的重要机遇，还可以树立坚定的信念和培养团结协作的精神，为今后的学习和生活打下坚实的基础。最后，段校长向同学们提出几点军训要求：1，加强组织纪律性，一切行动听指挥；2，不怕困难，刻苦训练；3，所有参加军训的同学，都要自始至终地参加队列训练等各项规定项目的操练，军训表现记入个人档案。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 经过四天的紧张军训，27日下午新生们在学校操场进行了汇报表演，校长段文彬、书记刘三科、学校相关领导及部队领导观摩的汇报表演。会操表演前段校长和部队领导检阅了方阵；军训会操表演中，同学们统一着装，步伐整齐，分为七个方阵，在教官的指挥下，分别进入主席台前进行表演，校领导为会操表演进行打分；军训汇报表演结束后，昌河中学向部队赠送锦旗，向教官颁发荣誉证书，副校长康乐阗宣布学校表彰2014年级新生军训优秀方阵和优秀学员的名单，学校领导还向优秀方阵和优秀学员进行了颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记最后作军训总结。刘书记代表学校祝贺本次军训取得圆满成功，向受到表彰的优秀方阵的教官和学院致以诚挚的祝贺，向受到表彰的学员致以诚挚的祝贺，并向同学们提出了三点希望：第一，遵守校纪校规，热爱昌河中学，热爱集体荣誉，做文明学生，创文明班级，建文明校园；第二，珍惜高中三年的美好时光，塑造健全人格，培养关键能力，提高基本素质，让青春在学习生活中绽放出美丽的花朵；第三，瞄准考大学的目标，发扬“不畏难，敢拼搏，勇争先”的昌河中学精神，端正学习态度，提高学习效率，一步一个脚印，争取三年后考取理想的大学。<BR></DIV></FONT>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140930170427.JPG">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;9月24日至27日，昌河中学高一新生进行了为期四天的军训活动。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;9月24日上午，高一新生在学校篮球场上召开了军训动员大会，校长段文彬作动员报告，书记刘三科主持大会并宣布军训计划要求。段校长在动员大会上说，军训是同学们社会实践课程的重要组成部分也是磨练同学们意志锻炼同学们身体的重要机遇，还可以树立坚定的信念和培养团结协作的精神，为今后的学习和生活打下坚实的基础。最后，段校长向同学们提出几点军训要求：1，加强组织纪律性，一切行动听指挥；2，不怕困难，刻苦训练；3，所有参加军训的同学，都要自始至终地参加队列训练等各项规定项目的操练，军训表现记入个人档案。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 经过四天的紧张军训，27日下午新生们在学校操场进行了汇报表演，校长段文彬、书记刘三科、学校相关领导及部队领导观摩的汇报表演。会操表演前段校长和部队领导检阅了方阵；军训会操表演中，同学们统一着装，步伐整齐，分为七个方阵，在教官的指挥下，分别进入主席台前进行表演，校领导为会操表演进行打分；军训汇报表演结束后，昌河中学向部队赠送锦旗，向教官颁发荣誉证书，副校长康乐阗宣布学校表彰2014年级新生军训优秀方阵和优秀学员的名单，学校领导还向优秀方阵和优秀学员进行了颁奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记最后作军训总结。刘书记代表学校祝贺本次军训取得圆满成功，向受到表彰的优秀方阵的教官和学院致以诚挚的祝贺，向受到表彰的学员致以诚挚的祝贺，并向同学们提出了三点希望：第一，遵守校纪校规，热爱昌河中学，热爱集体荣誉，做文明学生，创文明班级，建文明校园；第二，珍惜高中三年的美好时光，塑造健全人格，培养关键能力，提高基本素质，让青春在学习生活中绽放出美丽的花朵；第三，瞄准考大学的目标，发扬“不畏难，敢拼搏，勇争先”的昌河中学精神，端正学习态度，提高学习效率，一步一个脚印，争取三年后考取理想的大学。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -127,7 +128,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

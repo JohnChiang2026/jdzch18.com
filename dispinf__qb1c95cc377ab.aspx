@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在中国共产党成立93年周年来临之际，昌河中学举行多种活动来庆七一。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6月28日下午2点，全体党员在学校行政楼四楼会议室举行座谈会，书记刘三科、校长段文彬出席座谈会，书记刘三科主持座谈会并作总结讲话。座谈会上，各处室主任对本组一年来的工作进行了“述佳绩”，他们分别是：政教主任张宝瑞，教务主任王应金，教研主任朱伟光，校办主任张中坚，总务主任张志荣和保卫科长付强。在座谈会上，经过正当的程序和全体党员的投票，决定同意李安岱同志加入中国共产党。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下午3点半，全体党员在书记刘三科、校长段文彬带领下，冒雨来到景德镇市荷塘乡，来践行群众路线，亲身感受荷塘精神。党员们首先参观了荷塘精神陈列室，了解了荷塘垦殖场艰苦奋斗的历史，一件件实物，一个个鲜活的人物，感动着大家，这是我们党的群众路线教育最生动的实践；接着全体党员在烈士纪念碑下，手握拳头举起，用响亮的口号重温了入党宣誓仪式。<BR></FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在中国共产党成立93年周年来临之际，昌河中学举行多种活动来庆七一。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6月28日下午2点，全体党员在学校行政楼四楼会议室举行座谈会，书记刘三科、校长段文彬出席座谈会，书记刘三科主持座谈会并作总结讲话。座谈会上，各处室主任对本组一年来的工作进行了“述佳绩”，他们分别是：政教主任张宝瑞，教务主任王应金，教研主任朱伟光，校办主任张中坚，总务主任张志荣和保卫科长付强。在座谈会上，经过正当的程序和全体党员的投票，决定同意李安岱同志加入中国共产党。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下午3点半，全体党员在书记刘三科、校长段文彬带领下，冒雨来到景德镇市荷塘乡，来践行群众路线，亲身感受荷塘精神。党员们首先参观了荷塘精神陈列室，了解了荷塘垦殖场艰苦奋斗的历史，一件件实物，一个个鲜活的人物，感动着大家，这是我们党的群众路线教育最生动的实践；接着全体党员在烈士纪念碑下，手握拳头举起，用响亮的口号重温了入党宣誓仪式。<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -103,48 +103,48 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     <table id="DataInfList" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
 	<tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl0_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='资源名称：2014高考贫困生资助文件&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：07  6 2014 11:42AM&#13;&#10;资源描述：' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/183ynzxn1er2v5ix33wrpmltv456960.1232078672.rar' target="_self"><span id="DataInfList__ctl0_ids">2014高考贫困生资助文件</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='资源名称：2014高考贫困生资助文件&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：07  6 2014 11:42AM&#13;&#10;资源描述：' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/183ynzxn1er2v5ix33wrpmltv456960.1232078672.rar' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl0_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='资源名称：2014高考贫困生资助文件&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：07  6 2014 11:42AM&#13;&#10;资源描述：' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/183ynzxn1er2v5ix33wrpmltv456960.1232078672.rar' target="_self"><span id="DataInfList__ctl0_ids">2014高考贫困生资助文件</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='资源名称：2014高考贫困生资助文件&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：07  6 2014 11:42AM&#13;&#10;资源描述：' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/183ynzxn1er2v5ix33wrpmltv456960.1232078672.rar' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl1_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy555375.17205131015.ppt' target="_self"><span id="DataInfList__ctl1_ids">如何做个好家长（高中）</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy555375.17205131015.ppt' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl1_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy555375.17205131015.ppt' target="_self"><span id="DataInfList__ctl1_ids">如何做个好家长（高中）</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy555375.17205131015.ppt' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl2_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy554540.37504016439.ppt' target="_self"><span id="DataInfList__ctl2_ids">做智慧的家长</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy554540.37504016439.ppt' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl2_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy554540.37504016439.ppt' target="_self"><span id="DataInfList__ctl2_ids">做智慧的家长</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/1644vixlaf2fx4qpaev2wbwuy554540.37504016439.ppt' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl3_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/164za3it3ro4eufyoe14vqdupi35127.04987317652.zip' target="_self"><span id="DataInfList__ctl3_ids">周新桂二中家庭教育讲座课件</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/164za3it3ro4eufyoe14vqdupi35127.04987317652.zip' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl3_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/164za3it3ro4eufyoe14vqdupi35127.04987317652.zip' target="_self"><span id="DataInfList__ctl3_ids">周新桂二中家庭教育讲座课件</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/164za3it3ro4eufyoe14vqdupi35127.04987317652.zip' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl4_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/1600mgpko45lnmhzb45f4uangvn1824.1064864323.rar' target="_self"><span id="DataInfList__ctl4_ids">2013年信息技术考试说明（扫描版）</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/1600mgpko45lnmhzb45f4uangvn1824.1064864323.rar' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl4_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/1600mgpko45lnmhzb45f4uangvn1824.1064864323.rar' target="_self"><span id="DataInfList__ctl4_ids">2013年信息技术考试说明（扫描版）</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/1600mgpko45lnmhzb45f4uangvn1824.1064864323.rar' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl5_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/15614d4uz55uibz1355ouf3t3fx2796.3910078613.doc' target="_self"><span id="DataInfList__ctl5_ids">高考入学政府资助回执单</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/15614d4uz55uibz1355ouf3t3fx2796.3910078613.doc' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl5_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/15614d4uz55uibz1355ouf3t3fx2796.3910078613.doc' target="_self"><span id="DataInfList__ctl5_ids">高考入学政府资助回执单</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/15614d4uz55uibz1355ouf3t3fx2796.3910078613.doc' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl6_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='资源名称：信息技术试题库&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：03  9 2010  3:23PM&#13;&#10;资源描述：《信息技术》会考试题库' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/121qm3aoefjym4hv145zxuo42an9037.12184589222.xls' target="_self"><span id="DataInfList__ctl6_ids">信息技术试题库</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='资源名称：信息技术试题库&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：03  9 2010  3:23PM&#13;&#10;资源描述：《信息技术》会考试题库' href='http://www.jdzch18.com/adminweb/mod/sourcefiles/121qm3aoefjym4hv145zxuo42an9037.12184589222.xls' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl6_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='资源名称：信息技术试题库&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：03  9 2010  3:23PM&#13;&#10;资源描述：《信息技术》会考试题库' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/121qm3aoefjym4hv145zxuo42an9037.12184589222.xls' target="_self"><span id="DataInfList__ctl6_ids">信息技术试题库</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='资源名称：信息技术试题库&#13;&#10;作&nbsp;&nbsp;&nbsp;&nbsp;者：景德镇昌河中学&#13;&#10;更新时间：03  9 2010  3:23PM&#13;&#10;资源描述：《信息技术》会考试题库' href='http://jdzch18.hanze.icu/adminweb/mod/sourcefiles/121qm3aoefjym4hv145zxuo42an9037.12184589222.xls' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl7_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><span id="DataInfList__ctl7_ids">归去来兮辞</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl7_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><span id="DataInfList__ctl7_ids">归去来兮辞</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl8_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><span id="DataInfList__ctl8_ids">高二数学集体备课教案</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl8_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><span id="DataInfList__ctl8_ids">高二数学集体备课教案</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl9_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><span id="DataInfList__ctl9_ids">地理专题复习2天气与气候</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl9_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><span id="DataInfList__ctl9_ids">地理专题复习2天气与气候</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr><tr>
-		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl10_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><span id="DataInfList__ctl10_ids">珍惜我们的家园</span></a>
-                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://www.jdzch18.com/adminwe' target="_self"><font color="red">点击下载</font></a>
+		<td><IMG alt=推荐软件   src='images/Soft_elite.gif'>[<span id="DataInfList__ctl10_Label3"><a href=listsourceinf.aspx?pid=1_9       &ppid=1_9_1     >资料类</a></span>]<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><span id="DataInfList__ctl10_ids">珍惜我们的家园</span></a>
+                    	&nbsp;&nbsp;&nbsp;<a title='' href='http://jdzch18.hanze.icu/adminwe' target="_self"><font color="red">点击下载</font></a>
                     </td>
 	</tr>
 </table></td></tr></table></td></tr></table></td></tr>
@@ -172,7 +172,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
             <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
-            href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
+            href=http://jdzch18.hanze.icu/>http://jdzch18.hanze.icu/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
         <TR>

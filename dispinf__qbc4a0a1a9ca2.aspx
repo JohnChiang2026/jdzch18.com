@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月4日是青年节，昌河中学在二楼会议室举行青年教师座谈会，校长刘光明、书记刘三科等学校领导参加座谈会，刘校长、刘书记分别在座谈会上讲话。</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100506163146.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘校长说，青年教师是学校教师队伍中的一支重要力量，在学校的教育教学中发挥较大作用；作为年轻人应有理想和追求，把眼光放长远；对教学事业要爱岗敬业，多向老的优秀教师学习；多关心学校的发展，学校是青年教师们的工作生活的场所，对学校要有自豪感。<BR>刘书记说，党和政府一向关心青年人的成长；教师是一个光辉的职业，也是一个清淡的职业，教师的人生价值要在教书育人中体现；青年教师要多向老教师请教，要积极向党组织靠拢，要扎扎实实干事业，要认认真真做学问，为学校的发展做出自己的贡献。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在座谈会上，许多青年教师也谈了自己的感受，感谢学校对青年教师的关心，并对学校的发展献言献策。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在座谈会上讲话的领导还有副校长段文彬，副书记刘勇。出席座谈会的领导还有副校长金昂、副校长洪军，副校长康乐阗等。<BR></DIV></FONT>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100506163146.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘校长说，青年教师是学校教师队伍中的一支重要力量，在学校的教育教学中发挥较大作用；作为年轻人应有理想和追求，把眼光放长远；对教学事业要爱岗敬业，多向老的优秀教师学习；多关心学校的发展，学校是青年教师们的工作生活的场所，对学校要有自豪感。<BR>刘书记说，党和政府一向关心青年人的成长；教师是一个光辉的职业，也是一个清淡的职业，教师的人生价值要在教书育人中体现；青年教师要多向老教师请教，要积极向党组织靠拢，要扎扎实实干事业，要认认真真做学问，为学校的发展做出自己的贡献。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在座谈会上，许多青年教师也谈了自己的感受，感谢学校对青年教师的关心，并对学校的发展献言献策。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在座谈会上讲话的领导还有副校长段文彬，副书记刘勇。出席座谈会的领导还有副校长金昂、副校长洪军，副校长康乐阗等。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

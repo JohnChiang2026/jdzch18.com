@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,9 +99,10 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月14日下午，昌河中学高二学生在灯光球场举行成人仪式。成人仪式在雄壮的国歌声中拉开序幕，四百多名高二学生举起右手进行庄严的成人宣誓，书记刘三科代表学校向参加成人仪式的学生致辞，家长代表和学生代表分别发言。今年的成人仪式的主题是“在成长中学会感恩、在奉献中担起责任”。</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100517220231.JPG"></FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100517220251.JPG"></FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100517220310.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记在致辞中说，十八岁是人生的转折点，意味着同学们将迈入成人行列，将履行宪法和法律赋予的公民神圣权利和义务，将承担起对国家和社会的责任，希望同学们树立崇高的理想，增强责任意识，严格要求自己，努力做一名合格的高中生，做一个合格的共和国公民，以火热的青春去谱写壮丽的人生乐章！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在成人仪式上，还表演了文艺汇演。文艺节目全是同学们自编的，节目丰富多彩，有大合唱，小合唱，独唱，配乐诗朗诵，舞蹈等，精彩的表演赢得了阵阵掌声。成人仪式结束后，同学们纷纷表示，自己已经长大了，要懂得珍惜学习时光，担起责任，回报社会。<BR>出席成人仪式的学校领导还有，副校长段文彬、金昂、洪军、康乐阗，副书记刘勇。成人仪式由政教处和团委共同主办。</FONT></DIV>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100517220231.JPG"></FONT></DIV>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100517220251.JPG"></FONT></DIV>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100517220310.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记在致辞中说，十八岁是人生的转折点，意味着同学们将迈入成人行列，将履行宪法和法律赋予的公民神圣权利和义务，将承担起对国家和社会的责任，希望同学们树立崇高的理想，增强责任意识，严格要求自己，努力做一名合格的高中生，做一个合格的共和国公民，以火热的青春去谱写壮丽的人生乐章！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在成人仪式上，还表演了文艺汇演。文艺节目全是同学们自编的，节目丰富多彩，有大合唱，小合唱，独唱，配乐诗朗诵，舞蹈等，精彩的表演赢得了阵阵掌声。成人仪式结束后，同学们纷纷表示，自己已经长大了，要懂得珍惜学习时光，担起责任，回报社会。<BR>出席成人仪式的学校领导还有，副校长段文彬、金昂、洪军、康乐阗，副书记刘勇。成人仪式由政教处和团委共同主办。</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

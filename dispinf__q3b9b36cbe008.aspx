@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -101,7 +101,7 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV>2011年中招理化实验操作考试参考题<BR>化学：<BR>1．实验名称:制取二氧化碳并检验<BR>实验要求：<BR>　　1、组装制取二氧化碳实验装置并检查装置气密性<BR>　　2、向试管中加入4－5颗大理石，倒入适量稀盐酸后将试管固定<BR>　　3、用正确方法收集二氧化碳并验满<BR>　　4、向已收集二氧化碳的集气瓶里倒入澄清的石灰水检验二氧化碳<BR>　　5、清洗仪器，整理复位</DIV>
 <DIV>&nbsp;<BR>评分参考标准&nbsp;分值&nbsp;情况记录&nbsp;得分&nbsp;&nbsp;&nbsp; <BR>1．连接装置并检验气密性（以下错一处扣1分）<BR>　a．将橡胶塞稍稍旋转塞紧试管口<BR>　b．先将导管的一端放入盛水的烧杯中<BR>　c．用双手握住试管检查装置气密性，看导管口有无气泡冒出&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>2.添加药品（以下错一处扣1分）<BR>　a．开启试剂瓶，瓶塞倒放在桌上<BR>　b．用滤纸将镊子擦净取适量大理石放入试管口，慢慢竖立试管，使大理石滑入试管底部；盖好试剂瓶并放回原处，标签向实验者<BR>　c．开启试剂瓶，瓶塞倒放在桌上，标签向手心<BR>　d．向试管中倾倒稀盐酸，加酸量不超过试管的1/2，无滴洒；塞紧瓶塞，放回原处，标签向实验者&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>3．固定装置制取二氧化碳并验满（以下错一处扣1分，收集方法错误扣1分）<BR>　a．迅速用铁夹夹住试管的中上部<BR>　b．用集气瓶正确收集二氧化碳<BR>　c．用燃着的火柴放在瓶口验满后用玻璃片盖好&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>4．检验二氧化碳（以下错一处扣1分）<BR>　a.开启试剂瓶，瓶塞倒放在桌上，<BR>　b.向集气瓶中倒入少许澄清石灰水；塞紧瓶塞，放回原处，标签向实验者<BR>　c.同时用玻璃片盖好集气瓶振荡，观察现象&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>5．、仪器归位，整理实验台拆除实验装置、将废弃物放入指定容器，清洗器材并整理复位&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>2．实验名称:酸碱盐的性质(大理石和稀盐酸、硫酸铜溶液和氢氧化钠溶液的反应)<BR>实验要求:<BR>　　（1）正确取用固、液体药品<BR>　　（2）正确使用胶头滴管<BR>　　（3）仪器归位，整理实验台 <BR>&nbsp;<BR>评分参考标准（1--3错两处扣1分，扣完为止）&nbsp;分值&nbsp;情况记录&nbsp;得分&nbsp;&nbsp;&nbsp; <BR>1、取用大理石<BR>　a、瓶塞倒放<BR>　b、用镊子夹取大理石<BR>　c、试管横放，将大理石放在管口，将试管慢慢竖立，使大理石缓缓滑到试管底部&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>2、倒入稀盐酸 <BR>　a、瓶塞倒放，标签向手心<BR>　b、试管倾斜，管口与瓶口紧挨<BR>　c、加酸量不超过试管容积的1/3，观察现象后试管放入试管架&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>3、取用硫酸铜溶液<BR>　a、瓶塞倒放，标签向手心<BR>　b、试管倾斜管口与瓶口紧挨<BR>　c、液体量不宜太多（1/3）&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>4、滴加氢氧化钠溶液<BR>　a、正确使用胶头滴管<BR>　b、边滴加边振荡试管<BR>　c、观察现象后试管放入试管架&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>5、仪器洗涤、归位，整理实验台&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>&nbsp;物理：<BR>1．实验名称：用天平称物体的质量<BR>实验要求：<BR>　　1、将天平放在水平台上，将游码移到标尺左端的零刻线处；<BR>　　2、未放物体时，调节天平的横梁平衡；<BR>　　3、正确称量物体的质量，并将数据记录在纸上；<BR>　　4、实验完毕，整理好器材。<BR>&nbsp;<BR>评分参考标准&nbsp;分值&nbsp;情况记录&nbsp;总得分&nbsp;&nbsp;&nbsp; <BR>1、将天平放在水平台上，将游码归零。&nbsp;0.5分&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp; <BR>2、调节平衡螺母，使横梁平衡。&nbsp;0.5分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>3、将物体放在左盘，向右盘增减砝码并移动游码，使横梁重新平衡。&nbsp;2分&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <BR>4、读出物体质量并记入表。&nbsp;1分&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <BR>5、实验完毕，整理好器材。&nbsp;1分&nbsp;&nbsp;&nbsp; &nbsp; <BR>2．实验名称：探究怎样用变阻器改变灯泡的亮度</DIV>
-<DIV><IMG style="WIDTH: 176px; HEIGHT: 85px" height=206 src="http://www.jdzch18.com/adminweb/mod/upfiles/20110427102253.jpg" width=235><BR>&nbsp;<BR>实验要求：<BR>　　1、根据如上电路图正确连接电路（要求开始接入的滑动变阻器的阻值最大）<BR>　　2、改变滑动变阻器的阻值观察灯泡的亮度的变化<BR>　　3、实验完毕，整理器材。<BR>&nbsp;<BR>评分参考标准&nbsp;分值&nbsp;情况记录&nbsp;得分&nbsp;&nbsp;&nbsp; <BR>1、连接电路（有错扣完3分为止）<BR>a、接线时，开关未断开扣1分<BR>b、接线时，未顺时针绕线扣1分<BR>c、滑动变阻器接线错误扣1分<BR>d、造成短路不给分 &nbsp;3分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>2、改变滑动变阻器的阻值灯泡亮度发生变化（亮度不变或不亮不给分）&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>3、断开开关，拆除所有导线并整理归位&nbsp;1分&nbsp;&nbsp;&nbsp; <BR><BR></DIV></span>
+<DIV><IMG style="WIDTH: 176px; HEIGHT: 85px" height=206 src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20110427102253.jpg" width=235><BR>&nbsp;<BR>实验要求：<BR>　　1、根据如上电路图正确连接电路（要求开始接入的滑动变阻器的阻值最大）<BR>　　2、改变滑动变阻器的阻值观察灯泡的亮度的变化<BR>　　3、实验完毕，整理器材。<BR>&nbsp;<BR>评分参考标准&nbsp;分值&nbsp;情况记录&nbsp;得分&nbsp;&nbsp;&nbsp; <BR>1、连接电路（有错扣完3分为止）<BR>a、接线时，开关未断开扣1分<BR>b、接线时，未顺时针绕线扣1分<BR>c、滑动变阻器接线错误扣1分<BR>d、造成短路不给分 &nbsp;3分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>2、改变滑动变阻器的阻值灯泡亮度发生变化（亮度不变或不亮不给分）&nbsp;1分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR>3、断开开关，拆除所有导线并整理归位&nbsp;1分&nbsp;&nbsp;&nbsp; <BR><BR></DIV></span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -127,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
             <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
-            href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
+            href=http://jdzch18.hanze.icu/>http://jdzch18.hanze.icu/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
         <TR>

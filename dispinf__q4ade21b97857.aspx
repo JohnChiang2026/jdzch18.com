@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,7 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104165829.jpg"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104165829.jpg"></FONT></DIV>
 <DIV><FONT size=4>【开场】<BR>各位老师，大家下午好！</FONT></DIV>
 <DIV><FONT size=4>绿柳舒眉辞旧岁，红桃开口贺新年<BR>一年四季春常在，万紫千红永开花<BR>为人师表诲而不倦，替国树才教必有方<BR>辞旧岁励志尚勤硕果丰盈，迎新春厚德博学桃李芬芳</FONT></DIV>
 <DIV><FONT size=4>回首2015，我们育师德，建师风，树立形象<BR>回首2015，我们抓改革，促教学，硕果累累<BR>教学教研齐头并进，文科理科比翼双飞<BR>政教招生形势大好，德育特色掌声连连<BR>抓设施，抓硬件，总务后勤默默奉献<BR>抓管理，抓服务，工会办公任劳任怨<BR>安全保卫，带来和谐平安的校园<BR>学生团委，共创活泼崭新的未来</FONT></DIV>
@@ -109,7 +109,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
 <DIV><FONT size=4>诗词歌赋，语段篇章，显雅士风度中华文明<BR>人生几何，世事方程，凭点线面体加减乘除<BR>心比天高，志同海大，教两国语言培育桃李<BR>三尺讲台，一腔热血，能做功出力放电发光<BR>氢氦氮氧，钠镁钾钙，弘天地正气教师本色<BR>经天纬地，门纲科目，探演变进化博学明理<BR>唯物辩证，古往今来，论物质本源成败得失<BR>跳跃腾挪，编程设计，绘亮丽图景五音悠扬</FONT></DIV>
 <DIV><FONT size=4>展望2016，我们满载奋斗豪情，开启新的航程；展望2016，我们怀揣灿烂理想，创造新的辉煌。走进春天，就走进蓬勃的希望，走进春天，就走进激情的舞台。立足现代，面向未来，昌河桃李满天下；脚踏实地，瞩目千里，瓷都栋梁遍九州。让我们秉承“不畏难，敢拼搏，勇争先”的昌河中学精神，齐心协力，锐意进取，砥砺前行，再创辉煌！</FONT></DIV>
 <DIV><FONT size=4>昌河中学2016庆元旦联欢会到此结束。让我们将美好的祝福送给在座的每一位，祝大家新的一年万事如意，心想事成!</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160104165923.jpg"><BR></DIV></FONT>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160104165923.jpg"><BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -134,7 +135,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

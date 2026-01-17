@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=4>&nbsp;&nbsp; &nbsp;4月15日上午，以省政府教育督导室副调研员温孝勋为组长的省新课程实验专项督导组一行三人来昌河中学进行高中新课改督导检查，陪同督导组检查的领导有市教育局纪委书记周金寿和督导室主任赵东汉，昌河中学校长刘光明、书记刘三科在二楼会议室接见了省督导组一行，刘光明还向省督导组汇报了昌河中学普通高中新课实验的情况。</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100416175900.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘校长的汇报内容主要为：成立了以校长书记为主任的新课程实验领导机构及相应的保障机制；加大培训力度，不断更新新教育教学理念；加强校本教研，提高教师业务水平；不断探索适合昌河中学新课程实验的教育教学管理制度等。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 温孝勋副调研员一行在刘校长和刘书记的陪同下查看了中学的理化生实验室、健身房、音乐排练室、学术报告厅和微机房等教学设施，还和高一高二部分教师进行了座谈，并饶有兴趣的听了一堂高一年级的英语课。最后，温孝勋副调研员把所检查的情况向昌河中学进行了反馈。</FONT></DIV>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100416175900.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘校长的汇报内容主要为：成立了以校长书记为主任的新课程实验领导机构及相应的保障机制；加大培训力度，不断更新新教育教学理念；加强校本教研，提高教师业务水平；不断探索适合昌河中学新课程实验的教育教学管理制度等。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 温孝勋副调研员一行在刘校长和刘书记的陪同下查看了中学的理化生实验室、健身房、音乐排练室、学术报告厅和微机房等教学设施，还和高一高二部分教师进行了座谈，并饶有兴趣的听了一堂高一年级的英语课。最后，温孝勋副调研员把所检查的情况向昌河中学进行了反馈。</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

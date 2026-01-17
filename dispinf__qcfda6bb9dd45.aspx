@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -100,8 +100,9 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4></FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20160229162552.JPG"></FONT></DIV>
-<DIV><FONT size=4>老师们、同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;早上好！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伴随着雄壮的国歌声，注视着国旗冉冉升起，我们心中也升腾起努力学习、勤奋工作的激情。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新学期的开学，春天的气息特别浓。人勤春来早，一年之季在于春，春天播下美好的种子，秋天就会收获丰硕的果实。在这春光明媚的季节里，我们全校师生要胸怀理想，坚定目标，周密规划，立即行动。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新学期我们要更加勤奋地学习。勤奋是中华民族的优良传统，勤奋是华夏儿女的优秀基因，勤奋是成就成功的必然要素。勤奋就是要专心学习，要与贪玩作斗争；勤奋就是要精神振作，要与萎靡懒散作斗争；勤奋就是要珍惜分分秒秒的时间，要与浪费时间作斗争。今年春节大年初一，高三有同学自觉主动到学校学习，学校为了鼓励他们，给每人包了一个红包，我们的目的就是要在全校倡导勤奋学习的风尚。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新学期，我们要更加严格地要求自己，每位同学对自己道德养成要有更高的要求。道德是关系到一个人的品质问题。在生活中我们都能感受到水果的品质不同，它的味道有很大差别。同样，人的道德是否高尚，人的品质就会有差别。有道德的人就要讲仁爱，敬爱老师和父母，爱护学校的公共财物，爱护学校的花草树木，热爱同学，热爱人民，热爱社会。一个讲仁爱的人的表现是热心帮助他人，热心为集体做好事，一个不讲仁爱的人的表现往往是自私自利，损人利己，喜欢埋怨别人，喜欢怨恨别人。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有道德的人就要心存善良。要怀着一颗善良的心对待身边的人和事，要与邪恶作斗争。善良的人不会侮辱别人，善良的人不会打架斗殴，善良的人喜欢帮助弱小的，救济贫困。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有道德的人就要有责任感，有担当！当前努力学习就是我们的责任。学生的天职就是学习，不努力学习的人是没有责任感的人。我们要通过努力学习来培养自己肯付出，肯努力，肯拼搏，有责任感的品质。努力学习的人走向社会后也会具备积极向上，努力付出的责任感。时下最流行的一句话是“不读书不吃苦，你要青春干什么？”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 崇高的道德品质与“仁爱、善良、责任、担当”这些词联系在一起的。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老师们，同学们，新学期一开始，我们就将面临着全市教育系统“综合治理先进单位”评比检查”和“创建文明校园”的评比检查。全校师生都要积极行动起来，要用文明的标准来规范我们的言行，要通过做文明的中学生、创文明班级来为创文明校园作贡献。要通过“整洁、整齐、整治”使我们的教室、办公室、校园到达“净化、美化、亮化”的标准，在创建文明校园的过程中，我们要与不讲文明、随地乱扔垃圾、破坏公物、破坏环境卫生的不良行为作斗争。学校要通过巡视和视频监控严查不良行为，发现损坏公物及乱扔垃圾的行为将严厉处罚。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老师们，同学们，新的学期充满新的希望。我们要秉持“励志、尚勤、厚德、博学”的校训，发扬“不畏难、敢拼搏、勇争先”的昌河中学精神，养成良好的品德，勤奋学习，为建设更加美好的昌河中学而努力奋斗。谢谢大家！<BR></DIV></FONT>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20160229162552.JPG"></FONT></DIV>
+<DIV><FONT size=4>老师们、同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;早上好！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伴随着雄壮的国歌声，注视着国旗冉冉升起，我们心中也升腾起努力学习、勤奋工作的激情。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新学期的开学，春天的气息特别浓。人勤春来早，一年之季在于春，春天播下美好的种子，秋天就会收获丰硕的果实。在这春光明媚的季节里，我们全校师生要胸怀理想，坚定目标，周密规划，立即行动。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新学期我们要更加勤奋地学习。勤奋是中华民族的优良传统，勤奋是华夏儿女的优秀基因，勤奋是成就成功的必然要素。勤奋就是要专心学习，要与贪玩作斗争；勤奋就是要精神振作，要与萎靡懒散作斗争；勤奋就是要珍惜分分秒秒的时间，要与浪费时间作斗争。今年春节大年初一，高三有同学自觉主动到学校学习，学校为了鼓励他们，给每人包了一个红包，我们的目的就是要在全校倡导勤奋学习的风尚。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新学期，我们要更加严格地要求自己，每位同学对自己道德养成要有更高的要求。道德是关系到一个人的品质问题。在生活中我们都能感受到水果的品质不同，它的味道有很大差别。同样，人的道德是否高尚，人的品质就会有差别。有道德的人就要讲仁爱，敬爱老师和父母，爱护学校的公共财物，爱护学校的花草树木，热爱同学，热爱人民，热爱社会。一个讲仁爱的人的表现是热心帮助他人，热心为集体做好事，一个不讲仁爱的人的表现往往是自私自利，损人利己，喜欢埋怨别人，喜欢怨恨别人。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有道德的人就要心存善良。要怀着一颗善良的心对待身边的人和事，要与邪恶作斗争。善良的人不会侮辱别人，善良的人不会打架斗殴，善良的人喜欢帮助弱小的，救济贫困。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有道德的人就要有责任感，有担当！当前努力学习就是我们的责任。学生的天职就是学习，不努力学习的人是没有责任感的人。我们要通过努力学习来培养自己肯付出，肯努力，肯拼搏，有责任感的品质。努力学习的人走向社会后也会具备积极向上，努力付出的责任感。时下最流行的一句话是“不读书不吃苦，你要青春干什么？”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 崇高的道德品质与“仁爱、善良、责任、担当”这些词联系在一起的。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老师们，同学们，新学期一开始，我们就将面临着全市教育系统“综合治理先进单位”评比检查”和“创建文明校园”的评比检查。全校师生都要积极行动起来，要用文明的标准来规范我们的言行，要通过做文明的中学生、创文明班级来为创文明校园作贡献。要通过“整洁、整齐、整治”使我们的教室、办公室、校园到达“净化、美化、亮化”的标准，在创建文明校园的过程中，我们要与不讲文明、随地乱扔垃圾、破坏公物、破坏环境卫生的不良行为作斗争。学校要通过巡视和视频监控严查不良行为，发现损坏公物及乱扔垃圾的行为将严厉处罚。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老师们，同学们，新的学期充满新的希望。我们要秉持“励志、尚勤、厚德、博学”的校训，发扬“不畏难、敢拼搏、勇争先”的昌河中学精神，养成良好的品德，勤奋学习，为建设更加美好的昌河中学而努力奋斗。谢谢大家！<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

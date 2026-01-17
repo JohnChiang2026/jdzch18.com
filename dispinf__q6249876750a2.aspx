@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 从4月1日起，昌河中学开展为期一个月的公开课“开放月”活动。<BR>本次公开课“开放月”活动，共有15名教师上课，既有省级学科带头人，也有市级学科带头人，还有刚参加工作不久的年轻教师；公开课涉及各个科目，从初中到高中各年级都有；上课的形式多样，大多采用多媒体教学，图文并茂，生动活泼；课的类别也多样，有公开课，观摩课，汇报课，还有高中新课程示范课。</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100412104310.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在上课期间，学校要求各位教师进行观摩，还要认真记录，并参与组内平课个上交听课记录。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4月7日上午，市教科所桂所长一行来我校进行公开课观摩，并和上课的教师进行交流。<BR></DIV></FONT>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100412104310.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在上课期间，学校要求各位教师进行观摩，还要认真记录，并参与组内平课个上交听课记录。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4月7日上午，市教科所桂所长一行来我校进行公开课观摩，并和上课的教师进行交流。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -100,7 +100,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>各位老师，同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 早上好！今天是我校开学的第一天，值此一元复始，万象更新之际，我代表学校领导班子向全校师生致以新年的美好祝福：祝老师们身体健康，工作顺利，事业发达；祝同学们思想进步，学业优秀，健康成长！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 回首过去的一年，我们满怀丰收的喜悦。学校班风学风校风不断改善，教育质量持续提高，高三第二次质检二本上线人数达97人，实现了历史新跨越，高三文科在三次统考中有两次居全市区第一名，高三理科无论是高分人数还是上线人数都呈现出非常好的势头；初三年级在全市联考中，前100名我校占了60％以上，，期末考试中，高二（7）班的杨赫同学总分获650分的好成绩，高一（6）班叶瑞恒同学总分超过640分，我校高中文科全面超过市区省重点中学，成为全市最好的文科。“读文科，选昌河”已成为景德镇市名副其实的社会认同。另外，在期末考试中，初一和初二年级的成绩也非常喜人。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;整体学习成绩的不断提高，我校教学质量呈现了全面发展稳步提高的大好局面。<BR>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 新的一年里是我校向更高教育教学目标迈进的挑战年，是昌河中学高考中考的关键年、决胜年。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我们要围绕培养健全人格、培养关键能力、培养基本素养为目标来开展教育教学活动，强化教学设计，努力打造高效率的课堂教学，使我们的学生文明素养好，精神境界高，学业水平优，综合能力强，为此要加强校园文化建设和班级文化建设，要加强学生的文明礼仪教育，规范学生的文明礼仪行为，尤其要加强学生爱护校园环境卫生的行为，一个不讲卫生的学生，不可能有好的教养和好的素质；一个卫生不好的的学校，不可能有好的办学水平。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我校值周的学生，各班值日学生，还有学校的清洁工，为我校的环境卫生付出了辛勤的劳动，作出了重要贡献，我们全体师生都要尊重他们的劳动，保护好我们的校园卫生。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学校要向全体学生重申几项禁令：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,严禁学生打架斗殴。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,严禁学生携带管制刀具。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,严禁学生抽烟。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4,严禁乱丢乱扔垃圾。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,严禁学生骑电动车、摩托车上下学。<BR>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;6,严禁学生离家出走。</FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老师们，同学们，新的一年孕育着新的希望，让我们进一步加强“班风、学风、校风”建设，努力打造高效课堂，同心协力，真抓实干，向着更高质量的教学目标迈进。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 再次祝大家新年快乐，生活幸福，万事如意，马年大吉，马到成功！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014年2月17日上午<BR>&nbsp;&nbsp; <BR></DIV></FONT>   </span>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老师们，同学们，新的一年孕育着新的希望，让我们进一步加强“班风、学风、校风”建设，努力打造高效课堂，同心协力，真抓实干，向着更高质量的教学目标迈进。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 再次祝大家新年快乐，生活幸福，万事如意，马年大吉，马到成功！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014年2月17日上午<BR>&nbsp;&nbsp; <BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -125,7 +126,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

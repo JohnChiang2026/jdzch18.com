@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>1、践行社会主义核心价值观，汇聚实现中国梦精神动力。 <BR>2、倡导富强、民主、文明、和谐，倡导自由、平等、公正、法 治，倡导爱国、敬业、诚信、友善，积极培育社会主义核心价值观。<BR>3、树立社会主义核心价值观，打牢共同思想道德基础。<BR>4、倡导文明新风，共建美好家园。 <BR>5、提倡“光盘”行动，杜绝舌尖上的浪费。<BR>6、弘扬文明新风尚，传播社会正能量。 <BR>7、节约光荣，浪费可耻，厉行节约，从我做起。 <BR>8、勤俭节约，点滴做起。 <BR>9、弘扬社会主义核心价值观重在知行统一。 <BR>10、社会主义核心价值观基本内容：富强、民主、文明、和谐， 自由、平等、公正、法治，爱国、敬业、诚信、友善。 <BR>11、握手文明，告别陋习，崇尚节俭，合理消费。<BR>12、用社会主义核心价值观引领社会思潮，凝聚社会共识。<BR>13、爱国、敬业、诚信、友善，是每个公民都应树立的道德规范和价值追求。 <BR>14、公德装在心中，文明贵在行动。<BR>15、节俭养德，杜绝浪费。 <BR>16、尊重劳动、珍惜粮食、勤俭节约。<BR></FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>1、践行社会主义核心价值观，汇聚实现中国梦精神动力。 <BR>2、倡导富强、民主、文明、和谐，倡导自由、平等、公正、法 治，倡导爱国、敬业、诚信、友善，积极培育社会主义核心价值观。<BR>3、树立社会主义核心价值观，打牢共同思想道德基础。<BR>4、倡导文明新风，共建美好家园。 <BR>5、提倡“光盘”行动，杜绝舌尖上的浪费。<BR>6、弘扬文明新风尚，传播社会正能量。 <BR>7、节约光荣，浪费可耻，厉行节约，从我做起。 <BR>8、勤俭节约，点滴做起。 <BR>9、弘扬社会主义核心价值观重在知行统一。 <BR>10、社会主义核心价值观基本内容：富强、民主、文明、和谐， 自由、平等、公正、法治，爱国、敬业、诚信、友善。 <BR>11、握手文明，告别陋习，崇尚节俭，合理消费。<BR>12、用社会主义核心价值观引领社会思潮，凝聚社会共识。<BR>13、爱国、敬业、诚信、友善，是每个公民都应树立的道德规范和价值追求。 <BR>14、公德装在心中，文明贵在行动。<BR>15、节俭养德，杜绝浪费。 <BR>16、尊重劳动、珍惜粮食、勤俭节约。<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

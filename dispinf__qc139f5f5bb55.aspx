@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上周是我高一（1）班进行值周，在班主任温荣平老师的精心安排下，我班同学认真工作，没有损坏任何劳动工具，高效圆满地完成了值周任务，保证了美丽的校园环境。在值周过程中，同学们团结互助，齐心协力共同打扫学校卫生，使我班同学之间更有团结感，也体会到了劳动的不易，在以后的学习过程中也会更加爱惜校园环境，珍惜他人的劳动成果，做到垃圾不随意丢弃，看见垃圾及时捡起并扔到垃圾桶中。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在值周的过程中我们发现一些问题：<BR>1、&nbsp;部分同学带早餐进入学校，早餐盒随意丢弃，影响校园环境，也给清扫带来不便。<BR>2、&nbsp;部分同学骑车进入校园中，十分危险，应令其下车，再步行进入车库。<BR>3、&nbsp;第一教学楼部分同学向楼下乱扔垃圾，一方面存在安全隐患，另一方面也破坏了学校的环境。<BR>4、&nbsp;希望学校能在车库增添一个垃圾桶。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 望学校采纳！以上就是上周值周总结，谢谢大家！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高一（1）班<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014.4.14<BR></FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上周是我高一（1）班进行值周，在班主任温荣平老师的精心安排下，我班同学认真工作，没有损坏任何劳动工具，高效圆满地完成了值周任务，保证了美丽的校园环境。在值周过程中，同学们团结互助，齐心协力共同打扫学校卫生，使我班同学之间更有团结感，也体会到了劳动的不易，在以后的学习过程中也会更加爱惜校园环境，珍惜他人的劳动成果，做到垃圾不随意丢弃，看见垃圾及时捡起并扔到垃圾桶中。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在值周的过程中我们发现一些问题：<BR>1、&nbsp;部分同学带早餐进入学校，早餐盒随意丢弃，影响校园环境，也给清扫带来不便。<BR>2、&nbsp;部分同学骑车进入校园中，十分危险，应令其下车，再步行进入车库。<BR>3、&nbsp;第一教学楼部分同学向楼下乱扔垃圾，一方面存在安全隐患，另一方面也破坏了学校的环境。<BR>4、&nbsp;希望学校能在车库增添一个垃圾桶。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 望学校采纳！以上就是上周值周总结，谢谢大家！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高一（1）班<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014.4.14<BR></FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

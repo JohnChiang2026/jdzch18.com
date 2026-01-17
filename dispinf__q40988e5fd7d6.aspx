@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -101,7 +101,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV align=left><SPAN><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p>
 <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt" align=left><FONT size=4>班主任工作职责<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 班主任是班级的组织者和指导者，在学校的领导下，班主任按照学校的统一部署创造性地开展工作。<BR>1、开学初要制定好班级工作计划，明确班级管理目标，制订并落实班级的各项规章制度。在向全班学生宣讲班级计划的基础上使每位学生确立恰当的奋斗目标和努力方向，期末时要对照工作计划总结经验，发扬成绩，找出差距，为新学期的工作作好必要准备。<BR>2、认真挑选班干部，注意培养班级骨干，抓好班干部队伍建设，领导班委会工作，每二周开一次班干部会，调动班干部的工作积极性，提高他的工作能力。经常参加班级团支部的组织生活，配合学校团委指导团支部的工作，使团员和干部在班级中发挥先锋模范作用。<BR>3、做好行为规范考核和品德测评工作，按照要求上报行为规范考核月报表，在班级形成正确的舆论导向，培养学生的集体荣誉感，形成良好的班风。指导学生每周写好周记并认真批阅，及时了解学生思想动态。<BR>4、组织开展多种形式的教育活动，尤其注重用好主题班会这一教育形式。主题班会要主题明确，形式多样，会前写好教案。组织学生积极参加社会实践活动和校内外精神文明建设活动。根据学校的安排定期出好黑板报，认真组织学生完成区、局、学校及年级组布置的各项工作。<BR>5、加强法制教育、安全教育，全面了解班级情况，及时、妥善地处理突发事件。学生旷课半天以上应及时与家长取得联系，了解原因并报德育处备案。<BR>6、充分利用家庭、学校和社会的教育力量，做好学生的教育工作。开好家长会，做好家访工作。每个学期对所在班级学生普访至少一次。善于做特殊学生的思想工作，落实帮教措施，循循善诱地开展谈心活动，耐心仔细地做好思想转化工作。<BR>7、认真贯彻落实旗教育局有关文件精神，引导学生明确学习目的，端正学习态度，掌握正确的学习方法，形成优良学风。加强学习常规教育。抓好课前二分钟、预复习、听课、午休及作业等环节。教育学生端正考风，严肃考纪。帮助学生提高学习效率。<BR>8、鼓励学生打好基础，激发潜能，培养特长，使学生的个性得到充分的发展。做好与任课教师的教学协调工作，及时了解学生的学习情况，采取措施提高班级整体成绩。做好学校家庭联系手册的成绩登分和品德评语工作及学生成长记录袋的填写和完善工作，及时向家长通报学生学习情况。<BR>9、教育学生爱护国家和学校的公共财产，节药水电，正确使用教学设备。<BR>10、准时参加班主任会议，认真做好班主任工作手册的记录。有计划地学习教育理论知识，积极开展教育科研，每学年至少完成一篇科研论文或经验总结，不断提高理论水平与班主任工作质量。<BR>11、六项具体工作到位：<BR>(1)升旗仪式：教育学生尊敬国旗，认真听好国旗下的讲话。<BR>(2)广播操：教育学生进退场有序，队伍整齐，精神饱满，做操有力，有节奏感。<BR>(3)值日班：教育学生准时到岗，示范文明礼仪，发挥学生参与学校管理的主体作用。<BR>(4)校班会：校会，组织学生认真收听广播；班会，班主任要备好课，提高教育的实效性。不将校班会课另作他用。<BR>(5)校园劳动：要认真组织学生积极参与，注意加强督促检查，培养学生劳动习惯。<BR>(6)安全教育：加强安全教育，落实安全措施，注意发挥学生干部作用，班委会设立安全委员。</FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center" align=center><FONT size=4></FONT></o:p></SPAN>&nbsp;</P></DIV>   </span>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center" align=center><FONT size=4></FONT></o:p></SPAN>&nbsp;</P></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

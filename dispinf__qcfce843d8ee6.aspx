@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,11 +99,12 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140528193610.JPG"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140528193610.JPG"></FONT></DIV>
 <DIV>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140528193723.JPG">&nbsp;</DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140528193723.JPG">&nbsp;</DIV>
 <DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近日昌河中学英语组成功举办了“高一英语才艺汇演”活动，本次活动由高一同学自主策划完成。高一（1）班学生王昊轩担任总导演，高一（6）班学生叶瑞恒、谭楚妍担任主持人。本次活动经过初赛、决赛，英语老师现场评分，评选出一、二、三等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次比赛使得参赛选手充分展现了英语能力，调动了同学们对英语学习的兴趣，从而大大了提高学生对英语的综合运用能力，在我校营造起良好的英语学习氛围。此次活动获得了师生的一致好评。</FONT></DIV>
-<DIV><FONT size=5></FONT>&nbsp;</DIV>   </span>
+<DIV><FONT size=5></FONT>&nbsp;</DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -128,7 +129,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

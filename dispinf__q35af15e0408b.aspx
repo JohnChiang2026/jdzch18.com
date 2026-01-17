@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,10 +99,11 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=5><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20151012101748.jpg"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=5><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20151012101748.jpg"></FONT></DIV>
 <DIV><FONT size=5></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20151012101807.jpg"></DIV>
-<DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10月10日下午，2015级高一新生军训会操仪式在学校操场举行。二炮部队领导及段文彬校长检阅了学生方阵，康乐阗副校长主持仪式，刘勇副书记宣布表彰优秀方阵和优秀学员，段文彬校长向二炮领导赠送锦旗。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各班按顺序进行了汇报表演。在会操仪式中，各参训班级依次进行了立正、稍息、踏步等内容的表演。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会操表演结束后，中学金昂副校长作军训总结，他说军训是中学的第一课，是实现角色转变的起点，是加强学生组织纪律性，培养良好习惯、文明礼貌、合作意识、团队意识、吃苦耐劳精神、国防观念、意志品质、自理能力等极为重要的途径和形式。同学们要把部队的好思想、好作风、、好品质带到今后的学习中去。<BR></DIV></FONT>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20151012101807.jpg"></DIV>
+<DIV><FONT size=5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10月10日下午，2015级高一新生军训会操仪式在学校操场举行。二炮部队领导及段文彬校长检阅了学生方阵，康乐阗副校长主持仪式，刘勇副书记宣布表彰优秀方阵和优秀学员，段文彬校长向二炮领导赠送锦旗。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各班按顺序进行了汇报表演。在会操仪式中，各参训班级依次进行了立正、稍息、踏步等内容的表演。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会操表演结束后，中学金昂副校长作军训总结，他说军训是中学的第一课，是实现角色转变的起点，是加强学生组织纪律性，培养良好习惯、文明礼貌、合作意识、团队意识、吃苦耐劳精神、国防观念、意志品质、自理能力等极为重要的途径和形式。同学们要把部队的好思想、好作风、、好品质带到今后的学习中去。<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -127,7 +128,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

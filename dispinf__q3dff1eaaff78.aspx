@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,24 +99,25 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152304.JPG"></FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152304.JPG"></FONT></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152318.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152318.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152333.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152333.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152349.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152349.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152400.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152400.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152411.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152411.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152422.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152422.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152433.JPG"></DIV>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152433.JPG"></DIV>
 <DIV><FONT size=4></FONT>&nbsp;</DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20150527152443.JPG"></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月25日下午，昌河中学高二年级全体同学在学校篮球场举行隆重的成人宣誓仪式，市教育局副局长陈洁、政教科科长曹立清被邀参加，陈副局长还代表市教育局致贺词，中学校长段文彬、书记刘三科等学校领导参加，段校长代表学校致辞。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;段校长在致辞中首先向即将步入成人行列的同学们表示热烈的祝贺，也向为同学们的健康成长付出心血的家长和老师们表示衷心的感谢！段校长说，我校举行隆重的成人宣誓仪式，是要同学们感受到走向成人的时刻是人生中非常重要的时刻，是要同学们感受到在我们成长过程中长辈和老师们付出了很多心血和汗水；希望同学们树立理想，担当责任，懂得“成人、感恩、理想和责任”的真正含义；今天同学们在这里举行成人宣誓仪式，也是为即将进入高三学习吹响进军的号角，是向高三冲刺的总动员，希望同学们把全部精力投入到学习中去，把学过的知识一点一滴的去复习，形成知识体系，通过月考、质检，达到每次成绩上一个台阶，通过2016年的高考实现人生的大跨越；为了实现今天的誓言，我们要继续发扬“不畏难，敢拼搏、勇争先”的昌河中学精神，永远充满朝气，积极向上，为美好的理想努力奋斗！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式在洪亮的国歌声中开始，在老师的带领下，全体同学举起右手握拳，庄严宣誓：捍卫神圣宪法，维护法律尊严，履行公民义务，勇担社会道义……<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学生代表和家长代表分别发言。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式上还举行了精彩的才艺表演，有大合唱、民族舞、乐器演奏、配乐朗诵等，同学们自编自导的节目，内容丰富，精彩纷呈，赢得了在场师生们的阵阵掌声。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本次成人宣誓仪式的主题是“树核心价值观，圆美丽中国梦”。本次成人宣誓仪式由学校政教处和团委主办。</FONT></DIV>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20150527152443.JPG"></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月25日下午，昌河中学高二年级全体同学在学校篮球场举行隆重的成人宣誓仪式，市教育局副局长陈洁、政教科科长曹立清被邀参加，陈副局长还代表市教育局致贺词，中学校长段文彬、书记刘三科等学校领导参加，段校长代表学校致辞。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;段校长在致辞中首先向即将步入成人行列的同学们表示热烈的祝贺，也向为同学们的健康成长付出心血的家长和老师们表示衷心的感谢！段校长说，我校举行隆重的成人宣誓仪式，是要同学们感受到走向成人的时刻是人生中非常重要的时刻，是要同学们感受到在我们成长过程中长辈和老师们付出了很多心血和汗水；希望同学们树立理想，担当责任，懂得“成人、感恩、理想和责任”的真正含义；今天同学们在这里举行成人宣誓仪式，也是为即将进入高三学习吹响进军的号角，是向高三冲刺的总动员，希望同学们把全部精力投入到学习中去，把学过的知识一点一滴的去复习，形成知识体系，通过月考、质检，达到每次成绩上一个台阶，通过2016年的高考实现人生的大跨越；为了实现今天的誓言，我们要继续发扬“不畏难，敢拼搏、勇争先”的昌河中学精神，永远充满朝气，积极向上，为美好的理想努力奋斗！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式在洪亮的国歌声中开始，在老师的带领下，全体同学举起右手握拳，庄严宣誓：捍卫神圣宪法，维护法律尊严，履行公民义务，勇担社会道义……<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学生代表和家长代表分别发言。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 成人宣誓仪式上还举行了精彩的才艺表演，有大合唱、民族舞、乐器演奏、配乐朗诵等，同学们自编自导的节目，内容丰富，精彩纷呈，赢得了在场师生们的阵阵掌声。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本次成人宣誓仪式的主题是“树核心价值观，圆美丽中国梦”。本次成人宣誓仪式由学校政教处和团委主办。</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -141,7 +142,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

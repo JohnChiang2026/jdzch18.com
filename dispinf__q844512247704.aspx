@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,10 +99,11 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140619093219.jpg">&nbsp;</FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国务院决定从2006年起，每年6月的第二个星期六为“中国文化遗产日”。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2013年，经我市申请，国家文物局决定第九个中国文化遗产日主场城市活动于2014年6月14日在江西省景德镇市举行。昌河中学是我市唯一一所被邀请参赛的中学。<BR><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140619093256.jpg"></FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6月11日晚，作为重要活动之一的“第六届全国青少年文化遗产知识大赛”在景德镇群众文化中心隆重开幕。赛前选出了中学参赛组及大学参赛组，其中中学组包括北京师范大学附中、北京101中学、西安交通大学附中、中科大附中、江西省临川一中、苏州中学、景德镇市昌河中学等14所重点中学，大学组包括中国人民大学、中山大学、武汉大学、兰州大学、山东大学、华中师范大学等16所国内文博专业实力较强的高校。参赛选手近100名。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 微电影作为大赛重要赛事之一，成为了各中学和高校比拼的“战场。昌河中学微电影《瓷魂》斩获“最佳文化传承奖”“最佳导演奖”提名。国艺专场可谓当晚的重头戏，二胡秦腔，书法表演、古筝独奏，舞蹈、话剧等颇具古风的国艺表演，将大家带入国艺盛宴之中。第三个出场的昌河中学学生李雪一，现场挥毫景德镇精神“大器成景，厚德立镇”，杨雨卿同学古筝伴奏，当八个苍劲有力的毛笔字出现在众人面前时，台下热烈的掌声持续了二十余秒。 <BR>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;国家文物局信息咨询中心主任吴东风、景德镇副市长熊皓、世界遗产青少年教育中心主任袁爱俊等有关单位领导出席开幕式并为获奖的微电影学校颁奖。<BR><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140619093316.JPG"></FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在随后两天的活动中，昌河中学高二七班周婧雅、李雪一、卞玉扬三位同学在国学知识测试、陶瓷制作、陶瓷绘画、文物修复、文物布展、古建模型搭建、纸艺服饰创作展示等比赛中过关斩将，表现优异。最后以总分排名第二的成绩晋级中外文化遗产知识总决赛（中学组14学校中选6队进行总决赛），获得三等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这次活动中，昌河中学学生表现出了积极参与、知识面广、反应迅速、团结协作等良好素质，捧回七项大奖：1、“灿烂的遗产” 全国青少年微电影大赛“最佳文化传承奖”和“最佳导演奖”提名2、第六届全国青少年文化遗产知识大赛中学组三等奖3、李雪一荣获“国艺使者”个人十佳奖4、卞玉扬荣获“纸艺服装设计表演”个人十佳奖（第一名）5、周婧雅荣获“纸艺服装设计表演”个人十佳奖6、周婧雅荣获“国学使者”个人十佳奖7、周婧雅荣获“遗产保卫者”个人十佳奖。昌河中学是获奖最多的学校之一<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赛后，世界遗产青少年教育中心主任袁爱俊女士高度评价昌河中学师生的表现并与参赛师生合影留念。苏州外国语学校给昌河中学发来的致谢信：“朱老师，您好！我是去景德镇参加世界遗产大赛的苏州外国语学校带队老师薛友。此次大赛中，纸艺制作环节，我校学生有幸与贵校学生周婧雅合作，谢谢您和你的学生对我们学生的照顾。希望您有空来苏州旅游！”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 6月14日，主场城市活动在景德镇市举行。文化部副部长、国家文物局局长励小捷，国家文物局副局长董保华，江西省委常委、宣传部长姚亚平，江西省人民政府副省长朱虹，各省级文物部门有关负责同志以及景德镇市社会各界代表和群众，参加了当天的主场城市活动。昌河中学卞玉扬被邀请作为全国大中学生代表，在第九个中国文化遗产日开幕式上发言，激情的发言获得热烈的掌声!<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 活动期间昌河中学还应组委会邀请，选派了文化遗产日活动的志愿者，学校精心挑选了三名高一优秀学生和四名即将升入我校的小学优秀学生。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在这次全国性的活动中，昌河中学学生再一次表现出了良好的综合素质和精神风貌！<BR></DIV></FONT>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140619093219.jpg">&nbsp;</FONT></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国务院决定从2006年起，每年6月的第二个星期六为“中国文化遗产日”。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2013年，经我市申请，国家文物局决定第九个中国文化遗产日主场城市活动于2014年6月14日在江西省景德镇市举行。昌河中学是我市唯一一所被邀请参赛的中学。<BR><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140619093256.jpg"></FONT></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6月11日晚，作为重要活动之一的“第六届全国青少年文化遗产知识大赛”在景德镇群众文化中心隆重开幕。赛前选出了中学参赛组及大学参赛组，其中中学组包括北京师范大学附中、北京101中学、西安交通大学附中、中科大附中、江西省临川一中、苏州中学、景德镇市昌河中学等14所重点中学，大学组包括中国人民大学、中山大学、武汉大学、兰州大学、山东大学、华中师范大学等16所国内文博专业实力较强的高校。参赛选手近100名。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 微电影作为大赛重要赛事之一，成为了各中学和高校比拼的“战场。昌河中学微电影《瓷魂》斩获“最佳文化传承奖”“最佳导演奖”提名。国艺专场可谓当晚的重头戏，二胡秦腔，书法表演、古筝独奏，舞蹈、话剧等颇具古风的国艺表演，将大家带入国艺盛宴之中。第三个出场的昌河中学学生李雪一，现场挥毫景德镇精神“大器成景，厚德立镇”，杨雨卿同学古筝伴奏，当八个苍劲有力的毛笔字出现在众人面前时，台下热烈的掌声持续了二十余秒。 <BR>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;国家文物局信息咨询中心主任吴东风、景德镇副市长熊皓、世界遗产青少年教育中心主任袁爱俊等有关单位领导出席开幕式并为获奖的微电影学校颁奖。<BR><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140619093316.JPG"></FONT></DIV>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在随后两天的活动中，昌河中学高二七班周婧雅、李雪一、卞玉扬三位同学在国学知识测试、陶瓷制作、陶瓷绘画、文物修复、文物布展、古建模型搭建、纸艺服饰创作展示等比赛中过关斩将，表现优异。最后以总分排名第二的成绩晋级中外文化遗产知识总决赛（中学组14学校中选6队进行总决赛），获得三等奖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这次活动中，昌河中学学生表现出了积极参与、知识面广、反应迅速、团结协作等良好素质，捧回七项大奖：1、“灿烂的遗产” 全国青少年微电影大赛“最佳文化传承奖”和“最佳导演奖”提名2、第六届全国青少年文化遗产知识大赛中学组三等奖3、李雪一荣获“国艺使者”个人十佳奖4、卞玉扬荣获“纸艺服装设计表演”个人十佳奖（第一名）5、周婧雅荣获“纸艺服装设计表演”个人十佳奖6、周婧雅荣获“国学使者”个人十佳奖7、周婧雅荣获“遗产保卫者”个人十佳奖。昌河中学是获奖最多的学校之一<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赛后，世界遗产青少年教育中心主任袁爱俊女士高度评价昌河中学师生的表现并与参赛师生合影留念。苏州外国语学校给昌河中学发来的致谢信：“朱老师，您好！我是去景德镇参加世界遗产大赛的苏州外国语学校带队老师薛友。此次大赛中，纸艺制作环节，我校学生有幸与贵校学生周婧雅合作，谢谢您和你的学生对我们学生的照顾。希望您有空来苏州旅游！”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 6月14日，主场城市活动在景德镇市举行。文化部副部长、国家文物局局长励小捷，国家文物局副局长董保华，江西省委常委、宣传部长姚亚平，江西省人民政府副省长朱虹，各省级文物部门有关负责同志以及景德镇市社会各界代表和群众，参加了当天的主场城市活动。昌河中学卞玉扬被邀请作为全国大中学生代表，在第九个中国文化遗产日开幕式上发言，激情的发言获得热烈的掌声!<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 活动期间昌河中学还应组委会邀请，选派了文化遗产日活动的志愿者，学校精心挑选了三名高一优秀学生和四名即将升入我校的小学优秀学生。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在这次全国性的活动中，昌河中学学生再一次表现出了良好的综合素质和精神风貌！<BR></DIV></FONT>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -127,7 +128,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

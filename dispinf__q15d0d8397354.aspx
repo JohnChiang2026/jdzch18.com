@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -100,8 +100,9 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>文史类第一名易莉萍：<BR>进步时老师的鼓励是我前进的动力<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 全市文史类第一名：易莉萍，昌河中学高三（8）班<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 总分622分：语文127分，数学133分，英语134分，文综228分。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 拟填高校：仍在考虑中，趋向于南京大学和北京大学，先充分了解大学专业开设情况，再根据兴趣和就业前景选择，偏向金融类的专业。</FONT></DIV>
-<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140624162230.jpg"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 记者见到易莉萍时，她正埋头写着自己想说的话，她的字特别秀气工整，抬头看见记者，她显得十分羞涩，但爱笑的她却显得很有魅力。<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “有点不敢相信自己的眼睛”<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 昨日上午10点多，爸爸妈妈都已经出门工作，易莉萍一个人在家上网查自己的成绩。看到自己分数是622分时，她有点不敢相信自己的眼睛，她从未考过这样的高分，而且高考结束后，易莉萍的估分是560分，于是她将网页关掉，又重新查询了一次，“还是622分，我才意识到这是真的，才打电话给爸爸妈妈报告。”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 随后，更好的消息传来，老师周赤恩通过电话告诉她，她的成绩是全市第一名，在全省排名第十二位。“真没想到能排得这么靠前。”易莉萍说。<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 班主任：她能拿第一名在情理之中<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1996年11月出生的易莉萍还有4个多月就将跨入18岁成年人的行列，在班主任周赤恩老师眼里，易莉萍是一个“讲究学习方法、学习态度好”的学生，能获得第一名是情理之中的事情，“因为她在高三‘一检’的时候就拿过第一名，而且多次省市联考成绩都是名列前茅。”周赤恩说。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “她乐于学习，学习勤奋刻苦、十分踏实。”周赤恩告诉记者，易莉萍讲究学习方法，善于思考、善于总结、善于在紧张的学习之余调节自己和放松自己，“她很热爱音乐，也喜欢阅读，这都是非常好的方面。”他认为，良好的家庭环境也是易莉萍成功的原因，易莉萍父母虽都是一般工薪阶层，但家庭和睦，对她的学习既关心又不给过多的压力，为她营造了一个惬意宽松的家庭环境。<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 进步时老师的鼓励是前进的动力<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上小学、中学，易莉萍都没有择校，就从昌河小学升到昌河中学，老师对她的学习历程都十分熟悉，“她就是一点点进步，一步步向上。”原来易莉萍小升初时没考上重点班，初中升高中时刚刚过重点线，才进了重点班。据介绍，这个重点班60多名学生中，有36个过了二本线，9个过了一本线。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当记者问起，是什么促使她不断在进步，易莉萍说，“每当我取得了一点进步，老师就会鼓励我、夸奖我，我慢慢就越来越喜欢学习，然后又继续进步。”她告诉记者，进步时老师的鼓励是她前进的动力，而且他们班的班风很好，同学间也会相互鼓励，“我高二的时候曾经有一点退步，没能在班上排前三，就是在老师和同学们的关心下，在高二下学期我又把成绩追回来了。”<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 假期准备报个班学习吹竹笛<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 对于自己学习的秘诀，易莉萍毫不吝啬全盘托出，她滔滔不绝地说着，“我觉得要敢于取舍，高三的学习是很紧张的，我们不能把全部精力放在一个地方和一个科目上。”“也要注重课外阅读量，不断关注新闻，特别是时事热点。”“做作业时，要做到不翻笔记。”“下课要及时回顾，上课的一点一滴都是学习的重点。”“做好学习安排吧，不仅仅是一年的，还可以是一个学期，甚至可以是一个月的、一天的安排。”“要保持良好的心态和越战越勇的斗志，时时保持自信，相信自己可以做到，压力大时就这样鼓励自己。”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “现在几乎是尘埃落定了，我应该会去报个班，学习吹竹笛。”易莉萍告诉记者，自己一直很热爱音乐，终于可以放轻松去学习了。另外，她还会多多练习英语口语，“听学姐说，在大学更注重课外实践和社会交流，如果不勤练习，会比别人差很多。”</FONT></DIV>
-<DIV><FONT size=4></FONT>&nbsp;</DIV>   </span>
+<DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140624162230.jpg"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 记者见到易莉萍时，她正埋头写着自己想说的话，她的字特别秀气工整，抬头看见记者，她显得十分羞涩，但爱笑的她却显得很有魅力。<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “有点不敢相信自己的眼睛”<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 昨日上午10点多，爸爸妈妈都已经出门工作，易莉萍一个人在家上网查自己的成绩。看到自己分数是622分时，她有点不敢相信自己的眼睛，她从未考过这样的高分，而且高考结束后，易莉萍的估分是560分，于是她将网页关掉，又重新查询了一次，“还是622分，我才意识到这是真的，才打电话给爸爸妈妈报告。”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 随后，更好的消息传来，老师周赤恩通过电话告诉她，她的成绩是全市第一名，在全省排名第十二位。“真没想到能排得这么靠前。”易莉萍说。<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 班主任：她能拿第一名在情理之中<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1996年11月出生的易莉萍还有4个多月就将跨入18岁成年人的行列，在班主任周赤恩老师眼里，易莉萍是一个“讲究学习方法、学习态度好”的学生，能获得第一名是情理之中的事情，“因为她在高三‘一检’的时候就拿过第一名，而且多次省市联考成绩都是名列前茅。”周赤恩说。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “她乐于学习，学习勤奋刻苦、十分踏实。”周赤恩告诉记者，易莉萍讲究学习方法，善于思考、善于总结、善于在紧张的学习之余调节自己和放松自己，“她很热爱音乐，也喜欢阅读，这都是非常好的方面。”他认为，良好的家庭环境也是易莉萍成功的原因，易莉萍父母虽都是一般工薪阶层，但家庭和睦，对她的学习既关心又不给过多的压力，为她营造了一个惬意宽松的家庭环境。<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 进步时老师的鼓励是前进的动力<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上小学、中学，易莉萍都没有择校，就从昌河小学升到昌河中学，老师对她的学习历程都十分熟悉，“她就是一点点进步，一步步向上。”原来易莉萍小升初时没考上重点班，初中升高中时刚刚过重点线，才进了重点班。据介绍，这个重点班60多名学生中，有36个过了二本线，9个过了一本线。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当记者问起，是什么促使她不断在进步，易莉萍说，“每当我取得了一点进步，老师就会鼓励我、夸奖我，我慢慢就越来越喜欢学习，然后又继续进步。”她告诉记者，进步时老师的鼓励是她前进的动力，而且他们班的班风很好，同学间也会相互鼓励，“我高二的时候曾经有一点退步，没能在班上排前三，就是在老师和同学们的关心下，在高二下学期我又把成绩追回来了。”<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 假期准备报个班学习吹竹笛<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 对于自己学习的秘诀，易莉萍毫不吝啬全盘托出，她滔滔不绝地说着，“我觉得要敢于取舍，高三的学习是很紧张的，我们不能把全部精力放在一个地方和一个科目上。”“也要注重课外阅读量，不断关注新闻，特别是时事热点。”“做作业时，要做到不翻笔记。”“下课要及时回顾，上课的一点一滴都是学习的重点。”“做好学习安排吧，不仅仅是一年的，还可以是一个学期，甚至可以是一个月的、一天的安排。”“要保持良好的心态和越战越勇的斗志，时时保持自信，相信自己可以做到，压力大时就这样鼓励自己。”<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “现在几乎是尘埃落定了，我应该会去报个班，学习吹竹笛。”易莉萍告诉记者，自己一直很热爱音乐，终于可以放轻松去学习了。另外，她还会多多练习英语口语，“听学姐说，在大学更注重课外实践和社会交流，如果不勤练习，会比别人差很多。”</FONT></DIV>
+<DIV><FONT size=4></FONT>&nbsp;</DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

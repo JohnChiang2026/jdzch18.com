@@ -25,10 +25,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
                     	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月13日下午，昌河中学在学术报告厅举行法制讲座，参加听讲的有校长刘光明和书记刘三科等校级领导、各处室主任、年级组长、教研组长和班主任，主讲人是昌河中学法制副校长南河分局派出所副所长李强，刘光明校长主持讲座并总结讲话。</FONT></DIV>
-<DIV><FONT size=4><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20100514142716.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李强副校长在讲座中指出，师生们要提高遵纪守法意识，列举了许多事例说明什么是违法，并纠正了一些学生的认识误区，如打架斗殴是违法行为；提高青少年自我保护意识，青少年学生对突发的事件应冷静分析形势，相信邪不压正；提高报警意识，遇到危险要及时报警，准确提供线索，并及时通知老师和家长。李强副校长还把印有本人及单位的电话号码名片分发给大家。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘校长在总结讲话中首先对李强法制副校长来中学讲座表示感谢，并再次强调坚强校园安全工作。他说，学校已多次召开校园安全工作会议；5月6日沈副市长及教育局领导亲临学校检查校园安全工作；学校要进一步加强值班制度，特别中午值班，值班教师要巡逻，要记录；没来校的学生一定要及时通知家长，对不听话的学生不要激化矛盾；班主任要利用班会等多种渠道对学生进行安全防范意识教育。</FONT></DIV>   </span>
+<DIV><FONT size=4><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20100514142716.JPG"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李强副校长在讲座中指出，师生们要提高遵纪守法意识，列举了许多事例说明什么是违法，并纠正了一些学生的认识误区，如打架斗殴是违法行为；提高青少年自我保护意识，青少年学生对突发的事件应冷静分析形势，相信邪不压正；提高报警意识，遇到危险要及时报警，准确提供线索，并及时通知老师和家长。李强副校长还把印有本人及单位的电话号码名片分发给大家。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘校长在总结讲话中首先对李强法制副校长来中学讲座表示感谢，并再次强调坚强校园安全工作。他说，学校已多次召开校园安全工作会议；5月6日沈副市长及教育局领导亲临学校检查校园安全工作；学校要进一步加强值班制度，特别中午值班，值班教师要巡逻，要记录；没来校的学生一定要及时通知家长，对不听话的学生不要激化矛盾；班主任要利用班会等多种渠道对学生进行安全防范意识教育。</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;黔ICP备07002724号</FONT></P></TD></TR>

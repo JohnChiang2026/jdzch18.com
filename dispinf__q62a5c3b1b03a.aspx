@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,9 +99,10 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;<IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140422111355.JPG">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></DIV>
+                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;<IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140422111355.JPG">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></DIV>
 <DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4月17日和18日两天下午，昌河中学全体党员在学术报告厅进行群众路线教育实践活动集体学习，书记刘三科、校长段文彬参加集体学习，书记刘三科在学习开始时作了讲话。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记讲话内容主要是解读习近平总书记系列重要讲话精神，具体讲解了八个学习重点：1，学习关于坚持和发展中国特色社会主义的重要论述，坚定道路自信、理论自信、制度自信；2，学习关于实现中华民族伟大复兴的中国梦的重要论述，为国家富强、民族振兴、人民幸福而不懈奋斗；3，学习关于全面深化改革的重要论述，激发全社会的发展动力和创造力；4，学习关于推动科学发展的重要论述，进一步促进经济社会持续健康发展；5，学习关于社会主义民主政治和依法治国的重要论述，坚持走中国特色的社会主义政治发展道路；6，学习关于宣传工作的重要论述，牢牢掌握意识形态工作权和话语权；7，学习关于国际关系和我国外交战略的重要论述，坚持开放的发展、合作的发展共赢的发展；8，学习关于党建的重要论述，切实提高党要管党、从严治党的能力和水平。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 另外，还向党员们发放了中心理论学习学习材料：《习近平书记在兰考讲话内容》和《县委书记焦裕禄兰考故事》等。<BR>刘书记讲话结束后，党员们观看录像视频《全国道德模范龚全珍同志先进事迹报告会》。18日下午继续学习，观看录像视频《筑梦之基》。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在此次集体学习前印发了供党员干部自学的资料，其篇目有：。党员们通过学习纷纷表示，要认真学习和深刻理解习近平同志的系统重要讲话精神，并从焦裕禄、龚全珍这些先进党员身上学到了实实在在的全心全意为人民服务的精神，并要把这种精神落实到党的群众路线教育实践活动中去，投入到教育教学和管理工作中去。</FONT></DIV>
-<DIV><IMG src="http://www.jdzch18.com/adminweb/mod/upfiles/20140422111418.JPG"></DIV>   </span>
+<DIV><IMG src="http://jdzch18.hanze.icu/adminweb/mod/upfiles/20140422111418.JPG"></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -126,7 +127,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

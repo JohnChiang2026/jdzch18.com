@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>老师们，同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 早上好！为迎接中秋、国庆的到来，上周五学校安排了大扫除，并认真地进行了检查评比，现将结果总结如下：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;从总体上看，比以前两次完成得要好，尤其是走廊上的窗户比以前更加明亮，其中突出的班级有：初一（1）（3）（6）班，初二（1）（2）（3）（4）班，初三（2）（3）（4）班，高一（1）（2）（3）班，高二（1）（4）班，高三（6）班等。部分班主任一直坚持到最后，如初三（6）班罗老师在班上学生全部回家后发现包干区不干净亲自又清扫了一遍，借此机会提出表扬，道一声“辛苦了”！当然我们也不能回避存在的问题，最突出的有两个：一是卫生洁具的问题，部分班级洁具过多，摆放凌乱，本身成为班级卫生死角，既浪费资源，又影响美观，建议合理配置，每次劳动完后，将洁具清理干净，按指定位置摆放整齐，将坏了的或多余的送到木工房去，拖把统一放在卫生间，随用随取，用完后，清洗干净放回原处；二是包干区的卫生问题，特别是楼梯口，由于来往学生较多，乱扔的、倒垃圾洒落的现象时有发生，给这些包干区的卫生的维持造成了一定的困难。学校一方面要求同学们不要随意乱扔垃圾，同时建议值日生倒垃圾时不要装得太满，不要走得太快，途中散落的垃圾能主动清理干净。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 同学们，除了节假日，我们每天在学校的学习和生活时间都超过8小时，我们都想有一个利于身心健康的洁净优美的校园环境，现在每间教室都装饰一新，配备了整齐的课桌椅、干净整洁的窗帘，学校的努力需要大家共同维护。在此，学校倡议：一，不带早餐进校园；二，不乱扔纸屑、包装袋；三，不在公共设施上乱涂乱画；四，值日生除了完成当日卫生清扫任务外，要注意每堂课课间的卫生保持和监督。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后，祝老师们、同学们健康、快乐！谢谢大家！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 9月28日上午</FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>老师们，同学们：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 早上好！为迎接中秋、国庆的到来，上周五学校安排了大扫除，并认真地进行了检查评比，现将结果总结如下：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;从总体上看，比以前两次完成得要好，尤其是走廊上的窗户比以前更加明亮，其中突出的班级有：初一（1）（3）（6）班，初二（1）（2）（3）（4）班，初三（2）（3）（4）班，高一（1）（2）（3）班，高二（1）（4）班，高三（6）班等。部分班主任一直坚持到最后，如初三（6）班罗老师在班上学生全部回家后发现包干区不干净亲自又清扫了一遍，借此机会提出表扬，道一声“辛苦了”！当然我们也不能回避存在的问题，最突出的有两个：一是卫生洁具的问题，部分班级洁具过多，摆放凌乱，本身成为班级卫生死角，既浪费资源，又影响美观，建议合理配置，每次劳动完后，将洁具清理干净，按指定位置摆放整齐，将坏了的或多余的送到木工房去，拖把统一放在卫生间，随用随取，用完后，清洗干净放回原处；二是包干区的卫生问题，特别是楼梯口，由于来往学生较多，乱扔的、倒垃圾洒落的现象时有发生，给这些包干区的卫生的维持造成了一定的困难。学校一方面要求同学们不要随意乱扔垃圾，同时建议值日生倒垃圾时不要装得太满，不要走得太快，途中散落的垃圾能主动清理干净。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 同学们，除了节假日，我们每天在学校的学习和生活时间都超过8小时，我们都想有一个利于身心健康的洁净优美的校园环境，现在每间教室都装饰一新，配备了整齐的课桌椅、干净整洁的窗帘，学校的努力需要大家共同维护。在此，学校倡议：一，不带早餐进校园；二，不乱扔纸屑、包装袋；三，不在公共设施上乱涂乱画；四，值日生除了完成当日卫生清扫任务外，要注意每堂课课间的卫生保持和监督。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后，祝老师们、同学们健康、快乐！谢谢大家！<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 9月28日上午</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>

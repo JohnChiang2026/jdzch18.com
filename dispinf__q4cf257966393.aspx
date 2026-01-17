@@ -26,10 +26,10 @@
 			<td width="365">　</td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.jdzch18.com');"href="http://www.jdzch18.com"><span id="Top1_Label2">设为首页</span></a></td>
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://jdzch18.hanze.icu');"href="http://jdzch18.hanze.icu"><span id="Top1_Label2">设为首页</span></a></td>
 			<td width="92">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
-			<A onclick="javascript:window.external.addFavorite('http://www.jdzch18.com','景德镇昌河中学');"href="http://www.jdzch18.com"><span id="Top1_Label3">加入收藏</span></a></td>
+			<A onclick="javascript:window.external.addFavorite('http://jdzch18.hanze.icu','景德镇昌河中学');"href="http://jdzch18.hanze.icu"><span id="Top1_Label3">加入收藏</span></a></td>
 			<td width="93">
 			<img border="0" src="images/closenew.gif" width="14" height="14"> 
 			<a href="dispinf.aspx?pid=1_7&ppid=1_7_2"><span id="Top1_Label4">联系我们</span></a></td>
@@ -99,7 +99,8 @@ document.all[tdid1].style.left=getleft(tdid2)-80;
                         </td></tr>
                     </table></td></tr>
                     <tr><td><table width="100%"><tr><td width="15">&nbsp;</td><td>
-                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2月15日，正月十六，是全市中小学校正式开学的日子，这天上午昌河中学全体教职工在学校学术报告厅出席了2014年春季开学大会，校长段文彬主持会议并讲话，书记刘三科传市教育局关于2014年春季开学工作会议精神。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;段校长首先代表学校党政工团向全体教职工及家属致以新春的祝福。段校长的讲话分为两部分，一是对上学年学校工作的简单回顾，二是新年的任务和目标。2013年，在全校教职工的共同努力下，我校取得了很大的成绩，本届高三参加全市二检考试，二本上线达97人，一本达21人，实现历史性的突破，高三文科在三次统考中有两次居全市区第一名，高三理科无论是高分人数还是上线人数都呈现出非常好的势头；初三年级在全市联考中，前100名我校占了60％以上，，期末考试中，高二（7）班的杨赫同学总分获650分的好成绩，高一（6）班叶瑞恒同学总分超过640分，我校高中文科全面超过市区省重点中学，成为全市最好的文科。“读文科，选昌河”已成为景德镇市名副其实的社会认同，另外，在期末考试中，初一和初二年级的成绩也非常喜人；2013年朱伟光老师被评为市“五一劳动模范”，葛孝桢老师被评为省“优秀班主任”，余玉珍老师被评为市“师德标兵”。2014年是我校中考高考的关键年，也是决战年，争取高考上二本人数有突破，并稳固我校文科在市区的优势，中考在600分以上的人数有突破。为此，我们要更加努力，抖擞精神，勤奋耕耘，要转变工作作风，干部把自己当干部看，要想干事，能干事，干好事，勇于担当起自己的责任，把我校的干部建成一支整体素质高、能吃苦、乐于奉献、作风过硬的队伍；还要让我校的教师素质越来越好，能力越来越强，水平越来越高，业务越来越精湛，把我校教职工建立一支爱岗敬业、为人师表、学养深厚、教学专精、勇于创新、追求时尚、具有健康心态和强烈事业心的教职工队伍。段校长最后还布置了开学要做的几项工作。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记在传达市教育局开学工作会议精神时强调，要严格规范学校的办学行为，规范作息时间、教学时间、体育锻炼时间，控制学生的课外作业量，进一步规范教辅材料的征订与管理，进一步规范教师的教育教学行为，提高教师的职业道德水平、业务水平和专业化水平；推进教育创新大力实施素质教育，认真布置春季传染病尤其H7N9禽流感的防控工作，积极做好校园环境卫生和食品卫生工作，要全面深化课程改革，构建中学生发展核心素养体系，增强学生体质、提高学生艺术素养和健康水平。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学校的其他领导金昂、刘勇、康乐阗、舒伟明、方文华也出席了会议。</FONT></DIV>   </span>
+                    	<span id="lbcontent"><DIV><FONT size=4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2月15日，正月十六，是全市中小学校正式开学的日子，这天上午昌河中学全体教职工在学校学术报告厅出席了2014年春季开学大会，校长段文彬主持会议并讲话，书记刘三科传市教育局关于2014年春季开学工作会议精神。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;段校长首先代表学校党政工团向全体教职工及家属致以新春的祝福。段校长的讲话分为两部分，一是对上学年学校工作的简单回顾，二是新年的任务和目标。2013年，在全校教职工的共同努力下，我校取得了很大的成绩，本届高三参加全市二检考试，二本上线达97人，一本达21人，实现历史性的突破，高三文科在三次统考中有两次居全市区第一名，高三理科无论是高分人数还是上线人数都呈现出非常好的势头；初三年级在全市联考中，前100名我校占了60％以上，，期末考试中，高二（7）班的杨赫同学总分获650分的好成绩，高一（6）班叶瑞恒同学总分超过640分，我校高中文科全面超过市区省重点中学，成为全市最好的文科。“读文科，选昌河”已成为景德镇市名副其实的社会认同，另外，在期末考试中，初一和初二年级的成绩也非常喜人；2013年朱伟光老师被评为市“五一劳动模范”，葛孝桢老师被评为省“优秀班主任”，余玉珍老师被评为市“师德标兵”。2014年是我校中考高考的关键年，也是决战年，争取高考上二本人数有突破，并稳固我校文科在市区的优势，中考在600分以上的人数有突破。为此，我们要更加努力，抖擞精神，勤奋耕耘，要转变工作作风，干部把自己当干部看，要想干事，能干事，干好事，勇于担当起自己的责任，把我校的干部建成一支整体素质高、能吃苦、乐于奉献、作风过硬的队伍；还要让我校的教师素质越来越好，能力越来越强，水平越来越高，业务越来越精湛，把我校教职工建立一支爱岗敬业、为人师表、学养深厚、教学专精、勇于创新、追求时尚、具有健康心态和强烈事业心的教职工队伍。段校长最后还布置了开学要做的几项工作。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刘书记在传达市教育局开学工作会议精神时强调，要严格规范学校的办学行为，规范作息时间、教学时间、体育锻炼时间，控制学生的课外作业量，进一步规范教辅材料的征订与管理，进一步规范教师的教育教学行为，提高教师的职业道德水平、业务水平和专业化水平；推进教育创新大力实施素质教育，认真布置春季传染病尤其H7N9禽流感的防控工作，积极做好校园环境卫生和食品卫生工作，要全面深化课程改革，构建中学生发展核心素养体系，增强学生体质、提高学生艺术素养和健康水平。<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学校的其他领导金昂、刘勇、康乐阗、舒伟明、方文华也出席了会议。</FONT></DIV>   
+</span>
                     </td></tr></table></td></tr></table>
                 </td></tr></table>
         </td></tr>
@@ -124,7 +125,7 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
         
         <TR>
           <TD width="100%" bgColor=#f2fefc height=21>
-            <P align=center><FONT face=Verdana size=2><span id="Bottom1_Label7">网址：</span><A 
+            <P align=cenjdzch18.hanze.icuVerdana sjdzch18.hanze.icu"Bottom1_Label7">网址：</span><A 
             href=http://www.jdzch18.com/>http://www.jdzch18.com/</A>&nbsp; 
            <span id="Bottom1_Label9">电子邮件：</span><A 
           href="mailto:jdzch18@126.com">Jdzch18@126.com</A>&nbsp;赣ICP备13007203号</FONT></P></TD></TR>
