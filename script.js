@@ -38,7 +38,16 @@
   });
 
   btnCancel.addEventListener('click', ()=>{
-    history.back();
+    // Prefer explicit referrer navigation when available, otherwise fall back to history.back()
+    try{
+      if(document.referrer){
+        window.location.href = document.referrer;
+      }else{
+        history.back();
+      }
+    }catch(e){
+      try{ history.back(); }catch(_){}
+    }
   });
 
   function disableControls(){
