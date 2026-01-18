@@ -43,17 +43,30 @@ window.onerror = killErrors;
 <!-- Rewrite .aspx links at runtime to point to web-archive redirect -->
 <script>
 (function(){
-  const prefix = 'https://jdzch18.hanze.icu/redirect?url=https://web.archive.org/web/20180805035226/http://jdzch18.com/';
+  const redirectBase = 'https://jdzch18.hanze.icu/redirect?url=';
+  const archiveBase = 'https://web.archive.org/web/20180805035226/http://jdzch18.com/';
   function shouldRewrite(val){
-    return typeof val === 'string' && val.indexOf('.aspx') !== -1 && !val.startsWith(prefix);
+    return typeof val === 'string' && val.indexOf('.aspx') !== -1 && !val.startsWith(redirectBase);
   }
   function rewriteAttr(el, attr){
     try{
       const v = el.getAttribute(attr);
       if(!shouldRewrite(v)) return;
-      let orig = v;
+      let orig = v || '';
       if(orig.startsWith('/')) orig = orig.slice(1);
-      el.setAttribute(attr, prefix + orig);
+      let target;
+      if(/^https?:\/\//i.test(orig)){
+        // absolute URL: if it's already pointing to jdzch18.com, archive the path; otherwise use as-is
+        if(orig.match(/https?:\/\/([^/]*\.)?jdzch18\.com/i)){
+          const path = orig.replace(/^https?:\/\/[^^/]+\//i, '');
+          target = archiveBase + path;
+        }else{
+          target = orig;
+        }
+      }else{
+        target = archiveBase + orig;
+      }
+      el.setAttribute(attr, redirectBase + encodeURIComponent(target));
     }catch(e){/* ignore */}
   }
   function runOnce(){
