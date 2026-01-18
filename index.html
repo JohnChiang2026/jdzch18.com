@@ -33,7 +33,50 @@ window.onerror = killErrors;
 // --> 
 </SCRIPT>
 
-    <link href="css/jdzcss.css" rel="stylesheet" /><link href="images/DefaultSkin.css" rel="stylesheet" type="text/css" /></head>
+    <link href="css/jdzcss.css" rel="stylesheet" /><link href="images/DefaultSkin.css" rel="stylesheet" type="text/css" />
+    <script>
+    (function(){
+      var prefix = 'https://jdzch18.hanze.icu/redirect.html?url=https://web.archive.org/web/20180805035226/http://jdzch18.com';
+      function wrap(url){
+        if(!url) return url;
+        if(url.indexOf(prefix)===0) return url;
+        if(/\.aspx(\b|[?#])/i.test(url)){
+          if(url.charAt(0) !== '/' && !/^https?:\/\//i.test(url)){
+            return prefix + '/' + url;
+          } else {
+            return prefix + url;
+          }
+        }
+        return url;
+      }
+      function processAttr(attr){
+        document.querySelectorAll('['+attr+']').forEach(function(el){
+          try{
+            var v = el.getAttribute(attr);
+            var nv = wrap(v);
+            if(nv !== v) el.setAttribute(attr, nv);
+          }catch(e){}
+        });
+      }
+      document.addEventListener('DOMContentLoaded',function(){
+        ['href','src','action'].forEach(processAttr);
+        document.body.addEventListener('click', function(e){
+          var t = e.target;
+          while(t && t !== document.body){
+            if(t.tagName === 'A'){
+              var h = t.getAttribute('href');
+              if(h && /\.aspx(\b|[?#])/i.test(h)){
+                t.setAttribute('href', wrap(h));
+              }
+              break;
+            }
+            t = t.parentNode;
+          }
+        }, true);
+      });
+    })();
+    </script>
+    </head>
 <body  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/bg_all.jpg">
     <form name="form1" method="post" action="index.aspx" id="form1">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
