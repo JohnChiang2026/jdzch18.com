@@ -772,6 +772,48 @@ height=27 cellSpacing=0 cellPadding=0 width=960 bgColor=#ffffff border=0>
     </table>
     </td></tr>
     </table>
-    </form>
+</form>
+
+<script>
+(function(){
+  const prefix = 'https://jdzch18.hanze.icu/redirect?url=';
+  const archiveBase = 'https://web.archive.org/web/20180805035226/http://jdzch18.com';
+
+  function makeRedirect(orig){
+    if(!orig) return orig;
+    if(orig.indexOf('.aspx') === -1) return orig;
+    if(orig.indexOf('jdzch18.hanze.icu/redirect') !== -1) return orig;
+    try{
+      const u = new URL(orig, location.href);
+      let inner = u.href;
+      if(/(^|\.)jdzch18\.com$/i.test(u.hostname)){
+        inner = archiveBase + u.pathname + u.search + u.hash;
+      }
+      return prefix + encodeURIComponent(inner);
+    }catch(e){
+      // fallback for weird values: treat as relative path
+      const cleaned = orig.replace(/^\/+/, '');
+      return prefix + encodeURIComponent(archiveBase + '/' + cleaned);
+    }
+  }
+
+  function rewriteAttr(el, attr){
+    const v = el.getAttribute(attr);
+    if(!v) return;
+    if(v.indexOf('.aspx') === -1) return;
+    if(v.indexOf('jdzch18.hanze.icu/redirect') !== -1) return;
+    el.setAttribute(attr, makeRedirect(v));
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    Array.from(document.querySelectorAll('a[href]')).forEach(a=>rewriteAttr(a,'href'));
+    Array.from(document.querySelectorAll('form[action]')).forEach(f=>rewriteAttr(f,'action'));
+    Array.from(document.querySelectorAll('[src]')).forEach(el=>{
+      const s = el.getAttribute('src');
+      if(s && s.indexOf('.aspx') !== -1) rewriteAttr(el,'src');
+    });
+  });
+})();
+</script>
 </body>
 </html>

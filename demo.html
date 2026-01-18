@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>示范：.aspx 重写演示</title>
+  <style>body{font-family:Segoe UI,Arial;padding:20px}pre{background:#f6f6f6;padding:10px}</style>
+</head>
+<body>
+  <h1>.aspx 重写演示</h1>
+  <p>点击链接或查看下面的“重写结果”区域。</p>
+  <ul>
+    <li><a id="a1" href="index.aspx">相对链接：index.aspx</a></li>
+    <li><a id="a2" href="/listinf.aspx?pid=3_1&typeid=1">根路径链接：/listinf.aspx?pid=3_1</a></li>
+    <li><a id="a3" href="http://jdzch18.com/dispinf.aspx?pid=1_6&ppid=3_3_5">绝对 jdzch18.com：dispinf.aspx</a></li>
+    <li><a id="a4" href="https://other.example.com/page.aspx?id=5">第三方 .aspx：other.example.com/page.aspx</a></li>
+  </ul>
+  <form id="f1" action="login.aspx" method="post"><button type="submit">提交 (form action 将被重写)</button></form>
+  <h2>重写结果</h2>
+  <pre id="out">等待重写...</pre>
+
+<script>
+(function(){
+  const prefix = 'https://jdzch18.hanze.icu/redirect?url=';
+  const archiveBase = 'https://web.archive.org/web/20180805035226/http://jdzch18.com';
+
+  function makeRedirect(orig){
+    if(!orig) return orig;
+    if(orig.indexOf('.aspx') === -1) return orig;
+    if(orig.indexOf('jdzch18.hanze.icu/redirect') !== -1) return orig;
+    try{
+      const u = new URL(orig, location.href);
+      let inner = u.href;
+      if(/(^|\.)jdzch18\.com$/i.test(u.hostname)){
+        inner = archiveBase + u.pathname + u.search + u.hash;
+      }
+      return prefix + encodeURIComponent(inner);
+    }catch(e){
+      const cleaned = orig.replace(/^\/+/, '');
+      return prefix + encodeURIComponent(archiveBase + '/' + cleaned);
+    }
+  }
+
+  function rewriteAttr(el, attr){
+    const v = el.getAttribute(attr);
+    if(!v) return null;
+    if(v.indexOf('.aspx') === -1) return null;
+    if(v.indexOf('jdzch18.hanze.icu/redirect') !== -1) return null;
+    const before = v;
+    const after = makeRedirect(v);
+    el.setAttribute(attr, after);
+    return {before, after, attr, el};
+  }
+
+  document.addEventListener('DOMContentLoaded', function(){
+    const results = [];
+    Array.from(document.querySelectorAll('a[href]')).forEach(a=>{
+      const r = rewriteAttr(a,'href'); if(r) results.push(r);
+    });
+    Array.from(document.querySelectorAll('form[action]')).forEach(f=>{
+      const r = rewriteAttr(f,'action'); if(r) results.push(r);
+    });
+    const out = document.getElementById('out');
+    if(results.length===0){ out.textContent = '未找到需要重写的 .aspx 链接。'; return; }
+    out.textContent = results.map((r,i)=>{
+      const tag = r.el.tagName.toLowerCase();
+      return (i+1)+". <"+tag+"> attr="+r.attr+"\n  原："+r.before+"\n  新："+r.after;
+    }).join('\n\n');
+  });
+})();
+</script>
+</body>
+</html>
