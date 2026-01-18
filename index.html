@@ -9,9 +9,12 @@
 <SCRIPT src="images/scriptaculous.js"></SCRIPT>
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 <script>
-window.RufflePlayer.config = {
-    autoplay: "on"
-};
+    window.RufflePlayer = {
+      config: {
+        autoplay: "on",
+        unmuteOverlay: "hidden",
+      }
+    };
 </script>
 <SCRIPT src="images/checklogin.js"></SCRIPT>
 <STYLE type=text/css>.style4 {
