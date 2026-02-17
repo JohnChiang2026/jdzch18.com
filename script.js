@@ -6,7 +6,7 @@
   const msgEl = document.getElementById('message');
   const btnContinue = document.getElementById('continue');
   const btnCancel = document.getElementById('cancel');
-  const newtab = document.getElementById('newtab');
+  // 新标签页选项已移除，始终在当前窗口跳转
   let destUrl = null;
 
   if(!raw){
@@ -58,10 +58,6 @@
   function doRedirect(){
     if(!destUrl) return;
     const href = destUrl.href;
-    if(newtab.checked){
-      window.open(href,'_blank','noopener,noreferrer');
-    }else{
-      window.location.href = href;
-    }
+    window.location.href = href;
   }
 })();
